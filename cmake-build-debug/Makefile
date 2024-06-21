@@ -791,6 +791,266 @@ LP1.9/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.9.dir\build.make CMakeFiles/LP1.9.dir/build
 .PHONY : LP1.9/fast
 
+#=============================================================================
+# Target rules for targets named Ex3.1
+
+# Build rule for target.
+Ex3.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.1
+.PHONY : Ex3.1
+
+# fast build rule for target.
+Ex3.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.1.dir\build.make CMakeFiles/Ex3.1.dir/build
+.PHONY : Ex3.1/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2
+
+# Build rule for target.
+Ex3.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2
+.PHONY : Ex3.2
+
+# fast build rule for target.
+Ex3.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.dir\build.make CMakeFiles/Ex3.2.dir/build
+.PHONY : Ex3.2/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.3
+
+# Build rule for target.
+Ex3.3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.3
+.PHONY : Ex3.3
+
+# fast build rule for target.
+Ex3.3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.3.dir\build.make CMakeFiles/Ex3.3.dir/build
+.PHONY : Ex3.3/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.4
+
+# Build rule for target.
+Ex3.4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.4
+.PHONY : Ex3.4
+
+# fast build rule for target.
+Ex3.4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.4.dir\build.make CMakeFiles/Ex3.4.dir/build
+.PHONY : Ex3.4/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.5
+
+# Build rule for target.
+Ex3.5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.5
+.PHONY : Ex3.5
+
+# fast build rule for target.
+Ex3.5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.5.dir\build.make CMakeFiles/Ex3.5.dir/build
+.PHONY : Ex3.5/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.6
+
+# Build rule for target.
+Ex3.6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.6
+.PHONY : Ex3.6
+
+# fast build rule for target.
+Ex3.6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.6.dir\build.make CMakeFiles/Ex3.6.dir/build
+.PHONY : Ex3.6/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.7
+
+# Build rule for target.
+Ex3.7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.7
+.PHONY : Ex3.7
+
+# fast build rule for target.
+Ex3.7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.7.dir\build.make CMakeFiles/Ex3.7.dir/build
+.PHONY : Ex3.7/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.1
+
+# Build rule for target.
+Ex3.2.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.1
+.PHONY : Ex3.2.1
+
+# fast build rule for target.
+Ex3.2.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.1.dir\build.make CMakeFiles/Ex3.2.1.dir/build
+.PHONY : Ex3.2.1/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.2
+
+# Build rule for target.
+Ex3.2.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.2
+.PHONY : Ex3.2.2
+
+# fast build rule for target.
+Ex3.2.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.2.dir\build.make CMakeFiles/Ex3.2.2.dir/build
+.PHONY : Ex3.2.2/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.3
+
+# Build rule for target.
+Ex3.2.3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.3
+.PHONY : Ex3.2.3
+
+# fast build rule for target.
+Ex3.2.3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.3.dir\build.make CMakeFiles/Ex3.2.3.dir/build
+.PHONY : Ex3.2.3/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.4
+
+# Build rule for target.
+Ex3.2.4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.4
+.PHONY : Ex3.2.4
+
+# fast build rule for target.
+Ex3.2.4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.4.dir\build.make CMakeFiles/Ex3.2.4.dir/build
+.PHONY : Ex3.2.4/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.5
+
+# Build rule for target.
+Ex3.2.5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.5
+.PHONY : Ex3.2.5
+
+# fast build rule for target.
+Ex3.2.5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.5.dir\build.make CMakeFiles/Ex3.2.5.dir/build
+.PHONY : Ex3.2.5/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.6
+
+# Build rule for target.
+Ex3.2.6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.6
+.PHONY : Ex3.2.6
+
+# fast build rule for target.
+Ex3.2.6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.6.dir\build.make CMakeFiles/Ex3.2.6.dir/build
+.PHONY : Ex3.2.6/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.7
+
+# Build rule for target.
+Ex3.2.7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.7
+.PHONY : Ex3.2.7
+
+# fast build rule for target.
+Ex3.2.7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.7.dir\build.make CMakeFiles/Ex3.2.7.dir/build
+.PHONY : Ex3.2.7/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.8
+
+# Build rule for target.
+Ex3.2.8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.8
+.PHONY : Ex3.2.8
+
+# fast build rule for target.
+Ex3.2.8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.8.dir\build.make CMakeFiles/Ex3.2.8.dir/build
+.PHONY : Ex3.2.8/fast
+
+#=============================================================================
+# Target rules for targets named Ex3.2.9
+
+# Build rule for target.
+Ex3.2.9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex3.2.9
+.PHONY : Ex3.2.9
+
+# fast build rule for target.
+Ex3.2.9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.9.dir\build.make CMakeFiles/Ex3.2.9.dir/build
+.PHONY : Ex3.2.9/fast
+
+#=============================================================================
+# Target rules for targets named Ex4.1
+
+# Build rule for target.
+Ex4.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex4.1
+.PHONY : Ex4.1
+
+# fast build rule for target.
+Ex4.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.1.dir\build.make CMakeFiles/Ex4.1.dir/build
+.PHONY : Ex4.1/fast
+
+#=============================================================================
+# Target rules for targets named Ex4.2
+
+# Build rule for target.
+Ex4.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex4.2
+.PHONY : Ex4.2
+
+# fast build rule for target.
+Ex4.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.2.dir\build.make CMakeFiles/Ex4.2.dir/build
+.PHONY : Ex4.2/fast
+
+#=============================================================================
+# Target rules for targets named Ex4.3
+
+# Build rule for target.
+Ex4.3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex4.3
+.PHONY : Ex4.3
+
+# fast build rule for target.
+Ex4.3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.3.dir\build.make CMakeFiles/Ex4.3.dir/build
+.PHONY : Ex4.3/fast
+
+#=============================================================================
+# Target rules for targets named Ex4.4
+
+# Build rule for target.
+Ex4.4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex4.4
+.PHONY : Ex4.4
+
+# fast build rule for target.
+Ex4.4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.4.dir\build.make CMakeFiles/Ex4.4.dir/build
+.PHONY : Ex4.4/fast
+
 LP1/Ex1.obj: LP1/Ex1.c.obj
 .PHONY : LP1/Ex1.obj
 
@@ -2015,6 +2275,486 @@ TemaPeAcasa2/Ex9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.9.dir\build.make CMakeFiles/Ex2.9.dir/TemaPeAcasa2/Ex9.c.s
 .PHONY : TemaPeAcasa2/Ex9.c.s
 
+TemaPeAcasa3/Ex1.obj: TemaPeAcasa3/Ex1.c.obj
+.PHONY : TemaPeAcasa3/Ex1.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.1.dir\build.make CMakeFiles/Ex3.1.dir/TemaPeAcasa3/Ex1.c.obj
+.PHONY : TemaPeAcasa3/Ex1.c.obj
+
+TemaPeAcasa3/Ex1.i: TemaPeAcasa3/Ex1.c.i
+.PHONY : TemaPeAcasa3/Ex1.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.1.dir\build.make CMakeFiles/Ex3.1.dir/TemaPeAcasa3/Ex1.c.i
+.PHONY : TemaPeAcasa3/Ex1.c.i
+
+TemaPeAcasa3/Ex1.s: TemaPeAcasa3/Ex1.c.s
+.PHONY : TemaPeAcasa3/Ex1.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.1.dir\build.make CMakeFiles/Ex3.1.dir/TemaPeAcasa3/Ex1.c.s
+.PHONY : TemaPeAcasa3/Ex1.c.s
+
+TemaPeAcasa3/Ex2.1.obj: TemaPeAcasa3/Ex2.1.c.obj
+.PHONY : TemaPeAcasa3/Ex2.1.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.1.dir\build.make CMakeFiles/Ex3.2.1.dir/TemaPeAcasa3/Ex2.1.c.obj
+.PHONY : TemaPeAcasa3/Ex2.1.c.obj
+
+TemaPeAcasa3/Ex2.1.i: TemaPeAcasa3/Ex2.1.c.i
+.PHONY : TemaPeAcasa3/Ex2.1.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.1.dir\build.make CMakeFiles/Ex3.2.1.dir/TemaPeAcasa3/Ex2.1.c.i
+.PHONY : TemaPeAcasa3/Ex2.1.c.i
+
+TemaPeAcasa3/Ex2.1.s: TemaPeAcasa3/Ex2.1.c.s
+.PHONY : TemaPeAcasa3/Ex2.1.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.1.dir\build.make CMakeFiles/Ex3.2.1.dir/TemaPeAcasa3/Ex2.1.c.s
+.PHONY : TemaPeAcasa3/Ex2.1.c.s
+
+TemaPeAcasa3/Ex2.2.obj: TemaPeAcasa3/Ex2.2.c.obj
+.PHONY : TemaPeAcasa3/Ex2.2.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.2.dir\build.make CMakeFiles/Ex3.2.2.dir/TemaPeAcasa3/Ex2.2.c.obj
+.PHONY : TemaPeAcasa3/Ex2.2.c.obj
+
+TemaPeAcasa3/Ex2.2.i: TemaPeAcasa3/Ex2.2.c.i
+.PHONY : TemaPeAcasa3/Ex2.2.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.2.dir\build.make CMakeFiles/Ex3.2.2.dir/TemaPeAcasa3/Ex2.2.c.i
+.PHONY : TemaPeAcasa3/Ex2.2.c.i
+
+TemaPeAcasa3/Ex2.2.s: TemaPeAcasa3/Ex2.2.c.s
+.PHONY : TemaPeAcasa3/Ex2.2.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.2.dir\build.make CMakeFiles/Ex3.2.2.dir/TemaPeAcasa3/Ex2.2.c.s
+.PHONY : TemaPeAcasa3/Ex2.2.c.s
+
+TemaPeAcasa3/Ex2.3.obj: TemaPeAcasa3/Ex2.3.c.obj
+.PHONY : TemaPeAcasa3/Ex2.3.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.3.dir\build.make CMakeFiles/Ex3.2.3.dir/TemaPeAcasa3/Ex2.3.c.obj
+.PHONY : TemaPeAcasa3/Ex2.3.c.obj
+
+TemaPeAcasa3/Ex2.3.i: TemaPeAcasa3/Ex2.3.c.i
+.PHONY : TemaPeAcasa3/Ex2.3.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.3.dir\build.make CMakeFiles/Ex3.2.3.dir/TemaPeAcasa3/Ex2.3.c.i
+.PHONY : TemaPeAcasa3/Ex2.3.c.i
+
+TemaPeAcasa3/Ex2.3.s: TemaPeAcasa3/Ex2.3.c.s
+.PHONY : TemaPeAcasa3/Ex2.3.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.3.dir\build.make CMakeFiles/Ex3.2.3.dir/TemaPeAcasa3/Ex2.3.c.s
+.PHONY : TemaPeAcasa3/Ex2.3.c.s
+
+TemaPeAcasa3/Ex2.4.obj: TemaPeAcasa3/Ex2.4.c.obj
+.PHONY : TemaPeAcasa3/Ex2.4.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.4.dir\build.make CMakeFiles/Ex3.2.4.dir/TemaPeAcasa3/Ex2.4.c.obj
+.PHONY : TemaPeAcasa3/Ex2.4.c.obj
+
+TemaPeAcasa3/Ex2.4.i: TemaPeAcasa3/Ex2.4.c.i
+.PHONY : TemaPeAcasa3/Ex2.4.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.4.dir\build.make CMakeFiles/Ex3.2.4.dir/TemaPeAcasa3/Ex2.4.c.i
+.PHONY : TemaPeAcasa3/Ex2.4.c.i
+
+TemaPeAcasa3/Ex2.4.s: TemaPeAcasa3/Ex2.4.c.s
+.PHONY : TemaPeAcasa3/Ex2.4.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.4.dir\build.make CMakeFiles/Ex3.2.4.dir/TemaPeAcasa3/Ex2.4.c.s
+.PHONY : TemaPeAcasa3/Ex2.4.c.s
+
+TemaPeAcasa3/Ex2.5.obj: TemaPeAcasa3/Ex2.5.c.obj
+.PHONY : TemaPeAcasa3/Ex2.5.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.5.dir\build.make CMakeFiles/Ex3.2.5.dir/TemaPeAcasa3/Ex2.5.c.obj
+.PHONY : TemaPeAcasa3/Ex2.5.c.obj
+
+TemaPeAcasa3/Ex2.5.i: TemaPeAcasa3/Ex2.5.c.i
+.PHONY : TemaPeAcasa3/Ex2.5.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.5.dir\build.make CMakeFiles/Ex3.2.5.dir/TemaPeAcasa3/Ex2.5.c.i
+.PHONY : TemaPeAcasa3/Ex2.5.c.i
+
+TemaPeAcasa3/Ex2.5.s: TemaPeAcasa3/Ex2.5.c.s
+.PHONY : TemaPeAcasa3/Ex2.5.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.5.dir\build.make CMakeFiles/Ex3.2.5.dir/TemaPeAcasa3/Ex2.5.c.s
+.PHONY : TemaPeAcasa3/Ex2.5.c.s
+
+TemaPeAcasa3/Ex2.6.obj: TemaPeAcasa3/Ex2.6.c.obj
+.PHONY : TemaPeAcasa3/Ex2.6.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.6.dir\build.make CMakeFiles/Ex3.2.6.dir/TemaPeAcasa3/Ex2.6.c.obj
+.PHONY : TemaPeAcasa3/Ex2.6.c.obj
+
+TemaPeAcasa3/Ex2.6.i: TemaPeAcasa3/Ex2.6.c.i
+.PHONY : TemaPeAcasa3/Ex2.6.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.6.dir\build.make CMakeFiles/Ex3.2.6.dir/TemaPeAcasa3/Ex2.6.c.i
+.PHONY : TemaPeAcasa3/Ex2.6.c.i
+
+TemaPeAcasa3/Ex2.6.s: TemaPeAcasa3/Ex2.6.c.s
+.PHONY : TemaPeAcasa3/Ex2.6.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.6.dir\build.make CMakeFiles/Ex3.2.6.dir/TemaPeAcasa3/Ex2.6.c.s
+.PHONY : TemaPeAcasa3/Ex2.6.c.s
+
+TemaPeAcasa3/Ex2.7.obj: TemaPeAcasa3/Ex2.7.c.obj
+.PHONY : TemaPeAcasa3/Ex2.7.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.7.dir\build.make CMakeFiles/Ex3.2.7.dir/TemaPeAcasa3/Ex2.7.c.obj
+.PHONY : TemaPeAcasa3/Ex2.7.c.obj
+
+TemaPeAcasa3/Ex2.7.i: TemaPeAcasa3/Ex2.7.c.i
+.PHONY : TemaPeAcasa3/Ex2.7.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.7.dir\build.make CMakeFiles/Ex3.2.7.dir/TemaPeAcasa3/Ex2.7.c.i
+.PHONY : TemaPeAcasa3/Ex2.7.c.i
+
+TemaPeAcasa3/Ex2.7.s: TemaPeAcasa3/Ex2.7.c.s
+.PHONY : TemaPeAcasa3/Ex2.7.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.7.dir\build.make CMakeFiles/Ex3.2.7.dir/TemaPeAcasa3/Ex2.7.c.s
+.PHONY : TemaPeAcasa3/Ex2.7.c.s
+
+TemaPeAcasa3/Ex2.8.obj: TemaPeAcasa3/Ex2.8.c.obj
+.PHONY : TemaPeAcasa3/Ex2.8.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.8.dir\build.make CMakeFiles/Ex3.2.8.dir/TemaPeAcasa3/Ex2.8.c.obj
+.PHONY : TemaPeAcasa3/Ex2.8.c.obj
+
+TemaPeAcasa3/Ex2.8.i: TemaPeAcasa3/Ex2.8.c.i
+.PHONY : TemaPeAcasa3/Ex2.8.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.8.dir\build.make CMakeFiles/Ex3.2.8.dir/TemaPeAcasa3/Ex2.8.c.i
+.PHONY : TemaPeAcasa3/Ex2.8.c.i
+
+TemaPeAcasa3/Ex2.8.s: TemaPeAcasa3/Ex2.8.c.s
+.PHONY : TemaPeAcasa3/Ex2.8.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.8.dir\build.make CMakeFiles/Ex3.2.8.dir/TemaPeAcasa3/Ex2.8.c.s
+.PHONY : TemaPeAcasa3/Ex2.8.c.s
+
+TemaPeAcasa3/Ex2.9.obj: TemaPeAcasa3/Ex2.9.c.obj
+.PHONY : TemaPeAcasa3/Ex2.9.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.9.dir\build.make CMakeFiles/Ex3.2.9.dir/TemaPeAcasa3/Ex2.9.c.obj
+.PHONY : TemaPeAcasa3/Ex2.9.c.obj
+
+TemaPeAcasa3/Ex2.9.i: TemaPeAcasa3/Ex2.9.c.i
+.PHONY : TemaPeAcasa3/Ex2.9.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.9.dir\build.make CMakeFiles/Ex3.2.9.dir/TemaPeAcasa3/Ex2.9.c.i
+.PHONY : TemaPeAcasa3/Ex2.9.c.i
+
+TemaPeAcasa3/Ex2.9.s: TemaPeAcasa3/Ex2.9.c.s
+.PHONY : TemaPeAcasa3/Ex2.9.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.9.dir\build.make CMakeFiles/Ex3.2.9.dir/TemaPeAcasa3/Ex2.9.c.s
+.PHONY : TemaPeAcasa3/Ex2.9.c.s
+
+TemaPeAcasa3/Ex2.obj: TemaPeAcasa3/Ex2.c.obj
+.PHONY : TemaPeAcasa3/Ex2.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.dir\build.make CMakeFiles/Ex3.2.dir/TemaPeAcasa3/Ex2.c.obj
+.PHONY : TemaPeAcasa3/Ex2.c.obj
+
+TemaPeAcasa3/Ex2.i: TemaPeAcasa3/Ex2.c.i
+.PHONY : TemaPeAcasa3/Ex2.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.dir\build.make CMakeFiles/Ex3.2.dir/TemaPeAcasa3/Ex2.c.i
+.PHONY : TemaPeAcasa3/Ex2.c.i
+
+TemaPeAcasa3/Ex2.s: TemaPeAcasa3/Ex2.c.s
+.PHONY : TemaPeAcasa3/Ex2.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.dir\build.make CMakeFiles/Ex3.2.dir/TemaPeAcasa3/Ex2.c.s
+.PHONY : TemaPeAcasa3/Ex2.c.s
+
+TemaPeAcasa3/Ex3.obj: TemaPeAcasa3/Ex3.c.obj
+.PHONY : TemaPeAcasa3/Ex3.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.3.dir\build.make CMakeFiles/Ex3.3.dir/TemaPeAcasa3/Ex3.c.obj
+.PHONY : TemaPeAcasa3/Ex3.c.obj
+
+TemaPeAcasa3/Ex3.i: TemaPeAcasa3/Ex3.c.i
+.PHONY : TemaPeAcasa3/Ex3.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.3.dir\build.make CMakeFiles/Ex3.3.dir/TemaPeAcasa3/Ex3.c.i
+.PHONY : TemaPeAcasa3/Ex3.c.i
+
+TemaPeAcasa3/Ex3.s: TemaPeAcasa3/Ex3.c.s
+.PHONY : TemaPeAcasa3/Ex3.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.3.dir\build.make CMakeFiles/Ex3.3.dir/TemaPeAcasa3/Ex3.c.s
+.PHONY : TemaPeAcasa3/Ex3.c.s
+
+TemaPeAcasa3/Ex4.obj: TemaPeAcasa3/Ex4.c.obj
+.PHONY : TemaPeAcasa3/Ex4.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.4.dir\build.make CMakeFiles/Ex3.4.dir/TemaPeAcasa3/Ex4.c.obj
+.PHONY : TemaPeAcasa3/Ex4.c.obj
+
+TemaPeAcasa3/Ex4.i: TemaPeAcasa3/Ex4.c.i
+.PHONY : TemaPeAcasa3/Ex4.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.4.dir\build.make CMakeFiles/Ex3.4.dir/TemaPeAcasa3/Ex4.c.i
+.PHONY : TemaPeAcasa3/Ex4.c.i
+
+TemaPeAcasa3/Ex4.s: TemaPeAcasa3/Ex4.c.s
+.PHONY : TemaPeAcasa3/Ex4.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.4.dir\build.make CMakeFiles/Ex3.4.dir/TemaPeAcasa3/Ex4.c.s
+.PHONY : TemaPeAcasa3/Ex4.c.s
+
+TemaPeAcasa3/Ex5.obj: TemaPeAcasa3/Ex5.c.obj
+.PHONY : TemaPeAcasa3/Ex5.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.5.dir\build.make CMakeFiles/Ex3.5.dir/TemaPeAcasa3/Ex5.c.obj
+.PHONY : TemaPeAcasa3/Ex5.c.obj
+
+TemaPeAcasa3/Ex5.i: TemaPeAcasa3/Ex5.c.i
+.PHONY : TemaPeAcasa3/Ex5.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.5.dir\build.make CMakeFiles/Ex3.5.dir/TemaPeAcasa3/Ex5.c.i
+.PHONY : TemaPeAcasa3/Ex5.c.i
+
+TemaPeAcasa3/Ex5.s: TemaPeAcasa3/Ex5.c.s
+.PHONY : TemaPeAcasa3/Ex5.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.5.dir\build.make CMakeFiles/Ex3.5.dir/TemaPeAcasa3/Ex5.c.s
+.PHONY : TemaPeAcasa3/Ex5.c.s
+
+TemaPeAcasa3/Ex6.obj: TemaPeAcasa3/Ex6.c.obj
+.PHONY : TemaPeAcasa3/Ex6.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.6.dir\build.make CMakeFiles/Ex3.6.dir/TemaPeAcasa3/Ex6.c.obj
+.PHONY : TemaPeAcasa3/Ex6.c.obj
+
+TemaPeAcasa3/Ex6.i: TemaPeAcasa3/Ex6.c.i
+.PHONY : TemaPeAcasa3/Ex6.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.6.dir\build.make CMakeFiles/Ex3.6.dir/TemaPeAcasa3/Ex6.c.i
+.PHONY : TemaPeAcasa3/Ex6.c.i
+
+TemaPeAcasa3/Ex6.s: TemaPeAcasa3/Ex6.c.s
+.PHONY : TemaPeAcasa3/Ex6.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.6.dir\build.make CMakeFiles/Ex3.6.dir/TemaPeAcasa3/Ex6.c.s
+.PHONY : TemaPeAcasa3/Ex6.c.s
+
+TemaPeAcasa3/Ex7.obj: TemaPeAcasa3/Ex7.c.obj
+.PHONY : TemaPeAcasa3/Ex7.obj
+
+# target to build an object file
+TemaPeAcasa3/Ex7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.7.dir\build.make CMakeFiles/Ex3.7.dir/TemaPeAcasa3/Ex7.c.obj
+.PHONY : TemaPeAcasa3/Ex7.c.obj
+
+TemaPeAcasa3/Ex7.i: TemaPeAcasa3/Ex7.c.i
+.PHONY : TemaPeAcasa3/Ex7.i
+
+# target to preprocess a source file
+TemaPeAcasa3/Ex7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.7.dir\build.make CMakeFiles/Ex3.7.dir/TemaPeAcasa3/Ex7.c.i
+.PHONY : TemaPeAcasa3/Ex7.c.i
+
+TemaPeAcasa3/Ex7.s: TemaPeAcasa3/Ex7.c.s
+.PHONY : TemaPeAcasa3/Ex7.s
+
+# target to generate assembly for a file
+TemaPeAcasa3/Ex7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.7.dir\build.make CMakeFiles/Ex3.7.dir/TemaPeAcasa3/Ex7.c.s
+.PHONY : TemaPeAcasa3/Ex7.c.s
+
+TemaPeAcasa4/Ex4.1.obj: TemaPeAcasa4/Ex4.1.c.obj
+.PHONY : TemaPeAcasa4/Ex4.1.obj
+
+# target to build an object file
+TemaPeAcasa4/Ex4.1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.1.dir\build.make CMakeFiles/Ex4.1.dir/TemaPeAcasa4/Ex4.1.c.obj
+.PHONY : TemaPeAcasa4/Ex4.1.c.obj
+
+TemaPeAcasa4/Ex4.1.i: TemaPeAcasa4/Ex4.1.c.i
+.PHONY : TemaPeAcasa4/Ex4.1.i
+
+# target to preprocess a source file
+TemaPeAcasa4/Ex4.1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.1.dir\build.make CMakeFiles/Ex4.1.dir/TemaPeAcasa4/Ex4.1.c.i
+.PHONY : TemaPeAcasa4/Ex4.1.c.i
+
+TemaPeAcasa4/Ex4.1.s: TemaPeAcasa4/Ex4.1.c.s
+.PHONY : TemaPeAcasa4/Ex4.1.s
+
+# target to generate assembly for a file
+TemaPeAcasa4/Ex4.1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.1.dir\build.make CMakeFiles/Ex4.1.dir/TemaPeAcasa4/Ex4.1.c.s
+.PHONY : TemaPeAcasa4/Ex4.1.c.s
+
+TemaPeAcasa4/Ex4.2.obj: TemaPeAcasa4/Ex4.2.c.obj
+.PHONY : TemaPeAcasa4/Ex4.2.obj
+
+# target to build an object file
+TemaPeAcasa4/Ex4.2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.2.dir\build.make CMakeFiles/Ex4.2.dir/TemaPeAcasa4/Ex4.2.c.obj
+.PHONY : TemaPeAcasa4/Ex4.2.c.obj
+
+TemaPeAcasa4/Ex4.2.i: TemaPeAcasa4/Ex4.2.c.i
+.PHONY : TemaPeAcasa4/Ex4.2.i
+
+# target to preprocess a source file
+TemaPeAcasa4/Ex4.2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.2.dir\build.make CMakeFiles/Ex4.2.dir/TemaPeAcasa4/Ex4.2.c.i
+.PHONY : TemaPeAcasa4/Ex4.2.c.i
+
+TemaPeAcasa4/Ex4.2.s: TemaPeAcasa4/Ex4.2.c.s
+.PHONY : TemaPeAcasa4/Ex4.2.s
+
+# target to generate assembly for a file
+TemaPeAcasa4/Ex4.2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.2.dir\build.make CMakeFiles/Ex4.2.dir/TemaPeAcasa4/Ex4.2.c.s
+.PHONY : TemaPeAcasa4/Ex4.2.c.s
+
+TemaPeAcasa4/Ex4.3.obj: TemaPeAcasa4/Ex4.3.c.obj
+.PHONY : TemaPeAcasa4/Ex4.3.obj
+
+# target to build an object file
+TemaPeAcasa4/Ex4.3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.3.dir\build.make CMakeFiles/Ex4.3.dir/TemaPeAcasa4/Ex4.3.c.obj
+.PHONY : TemaPeAcasa4/Ex4.3.c.obj
+
+TemaPeAcasa4/Ex4.3.i: TemaPeAcasa4/Ex4.3.c.i
+.PHONY : TemaPeAcasa4/Ex4.3.i
+
+# target to preprocess a source file
+TemaPeAcasa4/Ex4.3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.3.dir\build.make CMakeFiles/Ex4.3.dir/TemaPeAcasa4/Ex4.3.c.i
+.PHONY : TemaPeAcasa4/Ex4.3.c.i
+
+TemaPeAcasa4/Ex4.3.s: TemaPeAcasa4/Ex4.3.c.s
+.PHONY : TemaPeAcasa4/Ex4.3.s
+
+# target to generate assembly for a file
+TemaPeAcasa4/Ex4.3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.3.dir\build.make CMakeFiles/Ex4.3.dir/TemaPeAcasa4/Ex4.3.c.s
+.PHONY : TemaPeAcasa4/Ex4.3.c.s
+
+TemaPeAcasa4/Ex4.4.obj: TemaPeAcasa4/Ex4.4.c.obj
+.PHONY : TemaPeAcasa4/Ex4.4.obj
+
+# target to build an object file
+TemaPeAcasa4/Ex4.4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.4.dir\build.make CMakeFiles/Ex4.4.dir/TemaPeAcasa4/Ex4.4.c.obj
+.PHONY : TemaPeAcasa4/Ex4.4.c.obj
+
+TemaPeAcasa4/Ex4.4.i: TemaPeAcasa4/Ex4.4.c.i
+.PHONY : TemaPeAcasa4/Ex4.4.i
+
+# target to preprocess a source file
+TemaPeAcasa4/Ex4.4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.4.dir\build.make CMakeFiles/Ex4.4.dir/TemaPeAcasa4/Ex4.4.c.i
+.PHONY : TemaPeAcasa4/Ex4.4.c.i
+
+TemaPeAcasa4/Ex4.4.s: TemaPeAcasa4/Ex4.4.c.s
+.PHONY : TemaPeAcasa4/Ex4.4.s
+
+# target to generate assembly for a file
+TemaPeAcasa4/Ex4.4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.4.dir\build.make CMakeFiles/Ex4.4.dir/TemaPeAcasa4/Ex4.4.c.s
+.PHONY : TemaPeAcasa4/Ex4.4.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -2084,7 +2824,27 @@ help:
 	@echo ... Ex2.8
 	@echo ... Ex2.9
 	@echo ... Ex3
+	@echo ... Ex3.1
+	@echo ... Ex3.2
+	@echo ... Ex3.2.1
+	@echo ... Ex3.2.2
+	@echo ... Ex3.2.3
+	@echo ... Ex3.2.4
+	@echo ... Ex3.2.5
+	@echo ... Ex3.2.6
+	@echo ... Ex3.2.7
+	@echo ... Ex3.2.8
+	@echo ... Ex3.2.9
+	@echo ... Ex3.3
+	@echo ... Ex3.4
+	@echo ... Ex3.5
+	@echo ... Ex3.6
+	@echo ... Ex3.7
 	@echo ... Ex4
+	@echo ... Ex4.1
+	@echo ... Ex4.2
+	@echo ... Ex4.3
+	@echo ... Ex4.4
 	@echo ... Ex5
 	@echo ... Ex6
 	@echo ... Ex7
@@ -2252,6 +3012,66 @@ help:
 	@echo ... TemaPeAcasa2/Ex9.obj
 	@echo ... TemaPeAcasa2/Ex9.i
 	@echo ... TemaPeAcasa2/Ex9.s
+	@echo ... TemaPeAcasa3/Ex1.obj
+	@echo ... TemaPeAcasa3/Ex1.i
+	@echo ... TemaPeAcasa3/Ex1.s
+	@echo ... TemaPeAcasa3/Ex2.1.obj
+	@echo ... TemaPeAcasa3/Ex2.1.i
+	@echo ... TemaPeAcasa3/Ex2.1.s
+	@echo ... TemaPeAcasa3/Ex2.2.obj
+	@echo ... TemaPeAcasa3/Ex2.2.i
+	@echo ... TemaPeAcasa3/Ex2.2.s
+	@echo ... TemaPeAcasa3/Ex2.3.obj
+	@echo ... TemaPeAcasa3/Ex2.3.i
+	@echo ... TemaPeAcasa3/Ex2.3.s
+	@echo ... TemaPeAcasa3/Ex2.4.obj
+	@echo ... TemaPeAcasa3/Ex2.4.i
+	@echo ... TemaPeAcasa3/Ex2.4.s
+	@echo ... TemaPeAcasa3/Ex2.5.obj
+	@echo ... TemaPeAcasa3/Ex2.5.i
+	@echo ... TemaPeAcasa3/Ex2.5.s
+	@echo ... TemaPeAcasa3/Ex2.6.obj
+	@echo ... TemaPeAcasa3/Ex2.6.i
+	@echo ... TemaPeAcasa3/Ex2.6.s
+	@echo ... TemaPeAcasa3/Ex2.7.obj
+	@echo ... TemaPeAcasa3/Ex2.7.i
+	@echo ... TemaPeAcasa3/Ex2.7.s
+	@echo ... TemaPeAcasa3/Ex2.8.obj
+	@echo ... TemaPeAcasa3/Ex2.8.i
+	@echo ... TemaPeAcasa3/Ex2.8.s
+	@echo ... TemaPeAcasa3/Ex2.9.obj
+	@echo ... TemaPeAcasa3/Ex2.9.i
+	@echo ... TemaPeAcasa3/Ex2.9.s
+	@echo ... TemaPeAcasa3/Ex2.obj
+	@echo ... TemaPeAcasa3/Ex2.i
+	@echo ... TemaPeAcasa3/Ex2.s
+	@echo ... TemaPeAcasa3/Ex3.obj
+	@echo ... TemaPeAcasa3/Ex3.i
+	@echo ... TemaPeAcasa3/Ex3.s
+	@echo ... TemaPeAcasa3/Ex4.obj
+	@echo ... TemaPeAcasa3/Ex4.i
+	@echo ... TemaPeAcasa3/Ex4.s
+	@echo ... TemaPeAcasa3/Ex5.obj
+	@echo ... TemaPeAcasa3/Ex5.i
+	@echo ... TemaPeAcasa3/Ex5.s
+	@echo ... TemaPeAcasa3/Ex6.obj
+	@echo ... TemaPeAcasa3/Ex6.i
+	@echo ... TemaPeAcasa3/Ex6.s
+	@echo ... TemaPeAcasa3/Ex7.obj
+	@echo ... TemaPeAcasa3/Ex7.i
+	@echo ... TemaPeAcasa3/Ex7.s
+	@echo ... TemaPeAcasa4/Ex4.1.obj
+	@echo ... TemaPeAcasa4/Ex4.1.i
+	@echo ... TemaPeAcasa4/Ex4.1.s
+	@echo ... TemaPeAcasa4/Ex4.2.obj
+	@echo ... TemaPeAcasa4/Ex4.2.i
+	@echo ... TemaPeAcasa4/Ex4.2.s
+	@echo ... TemaPeAcasa4/Ex4.3.obj
+	@echo ... TemaPeAcasa4/Ex4.3.i
+	@echo ... TemaPeAcasa4/Ex4.3.s
+	@echo ... TemaPeAcasa4/Ex4.4.obj
+	@echo ... TemaPeAcasa4/Ex4.4.i
+	@echo ... TemaPeAcasa4/Ex4.4.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
