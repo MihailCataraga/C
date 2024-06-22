@@ -70,5 +70,12 @@ C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.1.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.2.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.3.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.4.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.5.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.6.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.7.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.8.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.9.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.10.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/Ex4.11.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
