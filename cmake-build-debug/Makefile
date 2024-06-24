@@ -1142,6 +1142,214 @@ Ex4.11/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.11.dir\build.make CMakeFiles/Ex4.11.dir/build
 .PHONY : Ex4.11/fast
 
+#=============================================================================
+# Target rules for targets named LP2.1
+
+# Build rule for target.
+LP2.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1
+.PHONY : LP2.1
+
+# fast build rule for target.
+LP2.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.dir\build.make CMakeFiles/LP2.1.dir/build
+.PHONY : LP2.1/fast
+
+#=============================================================================
+# Target rules for targets named LP2.2
+
+# Build rule for target.
+LP2.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.2
+.PHONY : LP2.2
+
+# fast build rule for target.
+LP2.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.dir\build.make CMakeFiles/LP2.2.dir/build
+.PHONY : LP2.2/fast
+
+#=============================================================================
+# Target rules for targets named LP2.3
+
+# Build rule for target.
+LP2.3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.3
+.PHONY : LP2.3
+
+# fast build rule for target.
+LP2.3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.3.dir\build.make CMakeFiles/LP2.3.dir/build
+.PHONY : LP2.3/fast
+
+#=============================================================================
+# Target rules for targets named LP2.4
+
+# Build rule for target.
+LP2.4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.4
+.PHONY : LP2.4
+
+# fast build rule for target.
+LP2.4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.4.dir\build.make CMakeFiles/LP2.4.dir/build
+.PHONY : LP2.4/fast
+
+#=============================================================================
+# Target rules for targets named LP2.5
+
+# Build rule for target.
+LP2.5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.5
+.PHONY : LP2.5
+
+# fast build rule for target.
+LP2.5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.5.dir\build.make CMakeFiles/LP2.5.dir/build
+.PHONY : LP2.5/fast
+
+#=============================================================================
+# Target rules for targets named LP2.6
+
+# Build rule for target.
+LP2.6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.6
+.PHONY : LP2.6
+
+# fast build rule for target.
+LP2.6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.6.dir\build.make CMakeFiles/LP2.6.dir/build
+.PHONY : LP2.6/fast
+
+#=============================================================================
+# Target rules for targets named LP2.7
+
+# Build rule for target.
+LP2.7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.7
+.PHONY : LP2.7
+
+# fast build rule for target.
+LP2.7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.7.dir\build.make CMakeFiles/LP2.7.dir/build
+.PHONY : LP2.7/fast
+
+#=============================================================================
+# Target rules for targets named LP2.8
+
+# Build rule for target.
+LP2.8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.8
+.PHONY : LP2.8
+
+# fast build rule for target.
+LP2.8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.8.dir\build.make CMakeFiles/LP2.8.dir/build
+.PHONY : LP2.8/fast
+
+#=============================================================================
+# Target rules for targets named LP2.9
+
+# Build rule for target.
+LP2.9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.9
+.PHONY : LP2.9
+
+# fast build rule for target.
+LP2.9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.9.dir\build.make CMakeFiles/LP2.9.dir/build
+.PHONY : LP2.9/fast
+
+#=============================================================================
+# Target rules for targets named LP2.10
+
+# Build rule for target.
+LP2.10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.10
+.PHONY : LP2.10
+
+# fast build rule for target.
+LP2.10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.10.dir\build.make CMakeFiles/LP2.10.dir/build
+.PHONY : LP2.10/fast
+
+#=============================================================================
+# Target rules for targets named LP2.11
+
+# Build rule for target.
+LP2.11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.11
+.PHONY : LP2.11
+
+# fast build rule for target.
+LP2.11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.11.dir\build.make CMakeFiles/LP2.11.dir/build
+.PHONY : LP2.11/fast
+
+#=============================================================================
+# Target rules for targets named LP2.12
+
+# Build rule for target.
+LP2.12: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.12
+.PHONY : LP2.12
+
+# fast build rule for target.
+LP2.12/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.12.dir\build.make CMakeFiles/LP2.12.dir/build
+.PHONY : LP2.12/fast
+
+#=============================================================================
+# Target rules for targets named LP2.13
+
+# Build rule for target.
+LP2.13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.13
+.PHONY : LP2.13
+
+# fast build rule for target.
+LP2.13/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.13.dir\build.make CMakeFiles/LP2.13.dir/build
+.PHONY : LP2.13/fast
+
+#=============================================================================
+# Target rules for targets named LP2.14
+
+# Build rule for target.
+LP2.14: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.14
+.PHONY : LP2.14
+
+# fast build rule for target.
+LP2.14/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.14.dir\build.make CMakeFiles/LP2.14.dir/build
+.PHONY : LP2.14/fast
+
+#=============================================================================
+# Target rules for targets named LP2.15
+
+# Build rule for target.
+LP2.15: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.15
+.PHONY : LP2.15
+
+# fast build rule for target.
+LP2.15/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.15.dir\build.make CMakeFiles/LP2.15.dir/build
+.PHONY : LP2.15/fast
+
+#=============================================================================
+# Target rules for targets named LP2.16
+
+# Build rule for target.
+LP2.16: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.16
+.PHONY : LP2.16
+
+# fast build rule for target.
+LP2.16/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.16.dir\build.make CMakeFiles/LP2.16.dir/build
+.PHONY : LP2.16/fast
+
 LP1/Ex1.obj: LP1/Ex1.c.obj
 .PHONY : LP1/Ex1.obj
 
@@ -1357,6 +1565,390 @@ LP1/Ex9.s: LP1/Ex9.c.s
 LP1/Ex9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.9.dir\build.make CMakeFiles/LP1.9.dir/LP1/Ex9.c.s
 .PHONY : LP1/Ex9.c.s
+
+LP2/Ex1.obj: LP2/Ex1.c.obj
+.PHONY : LP2/Ex1.obj
+
+# target to build an object file
+LP2/Ex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.dir\build.make CMakeFiles/LP2.1.dir/LP2/Ex1.c.obj
+.PHONY : LP2/Ex1.c.obj
+
+LP2/Ex1.i: LP2/Ex1.c.i
+.PHONY : LP2/Ex1.i
+
+# target to preprocess a source file
+LP2/Ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.dir\build.make CMakeFiles/LP2.1.dir/LP2/Ex1.c.i
+.PHONY : LP2/Ex1.c.i
+
+LP2/Ex1.s: LP2/Ex1.c.s
+.PHONY : LP2/Ex1.s
+
+# target to generate assembly for a file
+LP2/Ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.dir\build.make CMakeFiles/LP2.1.dir/LP2/Ex1.c.s
+.PHONY : LP2/Ex1.c.s
+
+LP2/Ex10.obj: LP2/Ex10.c.obj
+.PHONY : LP2/Ex10.obj
+
+# target to build an object file
+LP2/Ex10.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.10.dir\build.make CMakeFiles/LP2.10.dir/LP2/Ex10.c.obj
+.PHONY : LP2/Ex10.c.obj
+
+LP2/Ex10.i: LP2/Ex10.c.i
+.PHONY : LP2/Ex10.i
+
+# target to preprocess a source file
+LP2/Ex10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.10.dir\build.make CMakeFiles/LP2.10.dir/LP2/Ex10.c.i
+.PHONY : LP2/Ex10.c.i
+
+LP2/Ex10.s: LP2/Ex10.c.s
+.PHONY : LP2/Ex10.s
+
+# target to generate assembly for a file
+LP2/Ex10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.10.dir\build.make CMakeFiles/LP2.10.dir/LP2/Ex10.c.s
+.PHONY : LP2/Ex10.c.s
+
+LP2/Ex11.obj: LP2/Ex11.c.obj
+.PHONY : LP2/Ex11.obj
+
+# target to build an object file
+LP2/Ex11.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.11.dir\build.make CMakeFiles/LP2.11.dir/LP2/Ex11.c.obj
+.PHONY : LP2/Ex11.c.obj
+
+LP2/Ex11.i: LP2/Ex11.c.i
+.PHONY : LP2/Ex11.i
+
+# target to preprocess a source file
+LP2/Ex11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.11.dir\build.make CMakeFiles/LP2.11.dir/LP2/Ex11.c.i
+.PHONY : LP2/Ex11.c.i
+
+LP2/Ex11.s: LP2/Ex11.c.s
+.PHONY : LP2/Ex11.s
+
+# target to generate assembly for a file
+LP2/Ex11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.11.dir\build.make CMakeFiles/LP2.11.dir/LP2/Ex11.c.s
+.PHONY : LP2/Ex11.c.s
+
+LP2/Ex12.obj: LP2/Ex12.c.obj
+.PHONY : LP2/Ex12.obj
+
+# target to build an object file
+LP2/Ex12.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.12.dir\build.make CMakeFiles/LP2.12.dir/LP2/Ex12.c.obj
+.PHONY : LP2/Ex12.c.obj
+
+LP2/Ex12.i: LP2/Ex12.c.i
+.PHONY : LP2/Ex12.i
+
+# target to preprocess a source file
+LP2/Ex12.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.12.dir\build.make CMakeFiles/LP2.12.dir/LP2/Ex12.c.i
+.PHONY : LP2/Ex12.c.i
+
+LP2/Ex12.s: LP2/Ex12.c.s
+.PHONY : LP2/Ex12.s
+
+# target to generate assembly for a file
+LP2/Ex12.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.12.dir\build.make CMakeFiles/LP2.12.dir/LP2/Ex12.c.s
+.PHONY : LP2/Ex12.c.s
+
+LP2/Ex13.obj: LP2/Ex13.c.obj
+.PHONY : LP2/Ex13.obj
+
+# target to build an object file
+LP2/Ex13.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.13.dir\build.make CMakeFiles/LP2.13.dir/LP2/Ex13.c.obj
+.PHONY : LP2/Ex13.c.obj
+
+LP2/Ex13.i: LP2/Ex13.c.i
+.PHONY : LP2/Ex13.i
+
+# target to preprocess a source file
+LP2/Ex13.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.13.dir\build.make CMakeFiles/LP2.13.dir/LP2/Ex13.c.i
+.PHONY : LP2/Ex13.c.i
+
+LP2/Ex13.s: LP2/Ex13.c.s
+.PHONY : LP2/Ex13.s
+
+# target to generate assembly for a file
+LP2/Ex13.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.13.dir\build.make CMakeFiles/LP2.13.dir/LP2/Ex13.c.s
+.PHONY : LP2/Ex13.c.s
+
+LP2/Ex14.obj: LP2/Ex14.c.obj
+.PHONY : LP2/Ex14.obj
+
+# target to build an object file
+LP2/Ex14.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.14.dir\build.make CMakeFiles/LP2.14.dir/LP2/Ex14.c.obj
+.PHONY : LP2/Ex14.c.obj
+
+LP2/Ex14.i: LP2/Ex14.c.i
+.PHONY : LP2/Ex14.i
+
+# target to preprocess a source file
+LP2/Ex14.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.14.dir\build.make CMakeFiles/LP2.14.dir/LP2/Ex14.c.i
+.PHONY : LP2/Ex14.c.i
+
+LP2/Ex14.s: LP2/Ex14.c.s
+.PHONY : LP2/Ex14.s
+
+# target to generate assembly for a file
+LP2/Ex14.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.14.dir\build.make CMakeFiles/LP2.14.dir/LP2/Ex14.c.s
+.PHONY : LP2/Ex14.c.s
+
+LP2/Ex15.obj: LP2/Ex15.c.obj
+.PHONY : LP2/Ex15.obj
+
+# target to build an object file
+LP2/Ex15.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.15.dir\build.make CMakeFiles/LP2.15.dir/LP2/Ex15.c.obj
+.PHONY : LP2/Ex15.c.obj
+
+LP2/Ex15.i: LP2/Ex15.c.i
+.PHONY : LP2/Ex15.i
+
+# target to preprocess a source file
+LP2/Ex15.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.15.dir\build.make CMakeFiles/LP2.15.dir/LP2/Ex15.c.i
+.PHONY : LP2/Ex15.c.i
+
+LP2/Ex15.s: LP2/Ex15.c.s
+.PHONY : LP2/Ex15.s
+
+# target to generate assembly for a file
+LP2/Ex15.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.15.dir\build.make CMakeFiles/LP2.15.dir/LP2/Ex15.c.s
+.PHONY : LP2/Ex15.c.s
+
+LP2/Ex16.obj: LP2/Ex16.c.obj
+.PHONY : LP2/Ex16.obj
+
+# target to build an object file
+LP2/Ex16.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.16.dir\build.make CMakeFiles/LP2.16.dir/LP2/Ex16.c.obj
+.PHONY : LP2/Ex16.c.obj
+
+LP2/Ex16.i: LP2/Ex16.c.i
+.PHONY : LP2/Ex16.i
+
+# target to preprocess a source file
+LP2/Ex16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.16.dir\build.make CMakeFiles/LP2.16.dir/LP2/Ex16.c.i
+.PHONY : LP2/Ex16.c.i
+
+LP2/Ex16.s: LP2/Ex16.c.s
+.PHONY : LP2/Ex16.s
+
+# target to generate assembly for a file
+LP2/Ex16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.16.dir\build.make CMakeFiles/LP2.16.dir/LP2/Ex16.c.s
+.PHONY : LP2/Ex16.c.s
+
+LP2/Ex2.obj: LP2/Ex2.c.obj
+.PHONY : LP2/Ex2.obj
+
+# target to build an object file
+LP2/Ex2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.dir\build.make CMakeFiles/LP2.2.dir/LP2/Ex2.c.obj
+.PHONY : LP2/Ex2.c.obj
+
+LP2/Ex2.i: LP2/Ex2.c.i
+.PHONY : LP2/Ex2.i
+
+# target to preprocess a source file
+LP2/Ex2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.dir\build.make CMakeFiles/LP2.2.dir/LP2/Ex2.c.i
+.PHONY : LP2/Ex2.c.i
+
+LP2/Ex2.s: LP2/Ex2.c.s
+.PHONY : LP2/Ex2.s
+
+# target to generate assembly for a file
+LP2/Ex2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.dir\build.make CMakeFiles/LP2.2.dir/LP2/Ex2.c.s
+.PHONY : LP2/Ex2.c.s
+
+LP2/Ex3.obj: LP2/Ex3.c.obj
+.PHONY : LP2/Ex3.obj
+
+# target to build an object file
+LP2/Ex3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.3.dir\build.make CMakeFiles/LP2.3.dir/LP2/Ex3.c.obj
+.PHONY : LP2/Ex3.c.obj
+
+LP2/Ex3.i: LP2/Ex3.c.i
+.PHONY : LP2/Ex3.i
+
+# target to preprocess a source file
+LP2/Ex3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.3.dir\build.make CMakeFiles/LP2.3.dir/LP2/Ex3.c.i
+.PHONY : LP2/Ex3.c.i
+
+LP2/Ex3.s: LP2/Ex3.c.s
+.PHONY : LP2/Ex3.s
+
+# target to generate assembly for a file
+LP2/Ex3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.3.dir\build.make CMakeFiles/LP2.3.dir/LP2/Ex3.c.s
+.PHONY : LP2/Ex3.c.s
+
+LP2/Ex4.obj: LP2/Ex4.c.obj
+.PHONY : LP2/Ex4.obj
+
+# target to build an object file
+LP2/Ex4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.4.dir\build.make CMakeFiles/LP2.4.dir/LP2/Ex4.c.obj
+.PHONY : LP2/Ex4.c.obj
+
+LP2/Ex4.i: LP2/Ex4.c.i
+.PHONY : LP2/Ex4.i
+
+# target to preprocess a source file
+LP2/Ex4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.4.dir\build.make CMakeFiles/LP2.4.dir/LP2/Ex4.c.i
+.PHONY : LP2/Ex4.c.i
+
+LP2/Ex4.s: LP2/Ex4.c.s
+.PHONY : LP2/Ex4.s
+
+# target to generate assembly for a file
+LP2/Ex4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.4.dir\build.make CMakeFiles/LP2.4.dir/LP2/Ex4.c.s
+.PHONY : LP2/Ex4.c.s
+
+LP2/Ex5.obj: LP2/Ex5.c.obj
+.PHONY : LP2/Ex5.obj
+
+# target to build an object file
+LP2/Ex5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.5.dir\build.make CMakeFiles/LP2.5.dir/LP2/Ex5.c.obj
+.PHONY : LP2/Ex5.c.obj
+
+LP2/Ex5.i: LP2/Ex5.c.i
+.PHONY : LP2/Ex5.i
+
+# target to preprocess a source file
+LP2/Ex5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.5.dir\build.make CMakeFiles/LP2.5.dir/LP2/Ex5.c.i
+.PHONY : LP2/Ex5.c.i
+
+LP2/Ex5.s: LP2/Ex5.c.s
+.PHONY : LP2/Ex5.s
+
+# target to generate assembly for a file
+LP2/Ex5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.5.dir\build.make CMakeFiles/LP2.5.dir/LP2/Ex5.c.s
+.PHONY : LP2/Ex5.c.s
+
+LP2/Ex6.obj: LP2/Ex6.c.obj
+.PHONY : LP2/Ex6.obj
+
+# target to build an object file
+LP2/Ex6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.6.dir\build.make CMakeFiles/LP2.6.dir/LP2/Ex6.c.obj
+.PHONY : LP2/Ex6.c.obj
+
+LP2/Ex6.i: LP2/Ex6.c.i
+.PHONY : LP2/Ex6.i
+
+# target to preprocess a source file
+LP2/Ex6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.6.dir\build.make CMakeFiles/LP2.6.dir/LP2/Ex6.c.i
+.PHONY : LP2/Ex6.c.i
+
+LP2/Ex6.s: LP2/Ex6.c.s
+.PHONY : LP2/Ex6.s
+
+# target to generate assembly for a file
+LP2/Ex6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.6.dir\build.make CMakeFiles/LP2.6.dir/LP2/Ex6.c.s
+.PHONY : LP2/Ex6.c.s
+
+LP2/Ex7.obj: LP2/Ex7.c.obj
+.PHONY : LP2/Ex7.obj
+
+# target to build an object file
+LP2/Ex7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.7.dir\build.make CMakeFiles/LP2.7.dir/LP2/Ex7.c.obj
+.PHONY : LP2/Ex7.c.obj
+
+LP2/Ex7.i: LP2/Ex7.c.i
+.PHONY : LP2/Ex7.i
+
+# target to preprocess a source file
+LP2/Ex7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.7.dir\build.make CMakeFiles/LP2.7.dir/LP2/Ex7.c.i
+.PHONY : LP2/Ex7.c.i
+
+LP2/Ex7.s: LP2/Ex7.c.s
+.PHONY : LP2/Ex7.s
+
+# target to generate assembly for a file
+LP2/Ex7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.7.dir\build.make CMakeFiles/LP2.7.dir/LP2/Ex7.c.s
+.PHONY : LP2/Ex7.c.s
+
+LP2/Ex8.obj: LP2/Ex8.c.obj
+.PHONY : LP2/Ex8.obj
+
+# target to build an object file
+LP2/Ex8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.8.dir\build.make CMakeFiles/LP2.8.dir/LP2/Ex8.c.obj
+.PHONY : LP2/Ex8.c.obj
+
+LP2/Ex8.i: LP2/Ex8.c.i
+.PHONY : LP2/Ex8.i
+
+# target to preprocess a source file
+LP2/Ex8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.8.dir\build.make CMakeFiles/LP2.8.dir/LP2/Ex8.c.i
+.PHONY : LP2/Ex8.c.i
+
+LP2/Ex8.s: LP2/Ex8.c.s
+.PHONY : LP2/Ex8.s
+
+# target to generate assembly for a file
+LP2/Ex8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.8.dir\build.make CMakeFiles/LP2.8.dir/LP2/Ex8.c.s
+.PHONY : LP2/Ex8.c.s
+
+LP2/Ex9.obj: LP2/Ex9.c.obj
+.PHONY : LP2/Ex9.obj
+
+# target to build an object file
+LP2/Ex9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.9.dir\build.make CMakeFiles/LP2.9.dir/LP2/Ex9.c.obj
+.PHONY : LP2/Ex9.c.obj
+
+LP2/Ex9.i: LP2/Ex9.c.i
+.PHONY : LP2/Ex9.i
+
+# target to preprocess a source file
+LP2/Ex9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.9.dir\build.make CMakeFiles/LP2.9.dir/LP2/Ex9.c.i
+.PHONY : LP2/Ex9.c.i
+
+LP2/Ex9.s: LP2/Ex9.c.s
+.PHONY : LP2/Ex9.s
+
+# target to generate assembly for a file
+LP2/Ex9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.9.dir\build.make CMakeFiles/LP2.9.dir/LP2/Ex9.c.s
+.PHONY : LP2/Ex9.c.s
 
 TemaPeAcasa/Ex1.obj: TemaPeAcasa/Ex1.c.obj
 .PHONY : TemaPeAcasa/Ex1.obj
@@ -3125,6 +3717,22 @@ help:
 	@echo ... LP1.7
 	@echo ... LP1.8
 	@echo ... LP1.9
+	@echo ... LP2.1
+	@echo ... LP2.10
+	@echo ... LP2.11
+	@echo ... LP2.12
+	@echo ... LP2.13
+	@echo ... LP2.14
+	@echo ... LP2.15
+	@echo ... LP2.16
+	@echo ... LP2.2
+	@echo ... LP2.3
+	@echo ... LP2.4
+	@echo ... LP2.5
+	@echo ... LP2.6
+	@echo ... LP2.7
+	@echo ... LP2.8
+	@echo ... LP2.9
 	@echo ... LP1/Ex1.obj
 	@echo ... LP1/Ex1.i
 	@echo ... LP1/Ex1.s
@@ -3152,6 +3760,54 @@ help:
 	@echo ... LP1/Ex9.obj
 	@echo ... LP1/Ex9.i
 	@echo ... LP1/Ex9.s
+	@echo ... LP2/Ex1.obj
+	@echo ... LP2/Ex1.i
+	@echo ... LP2/Ex1.s
+	@echo ... LP2/Ex10.obj
+	@echo ... LP2/Ex10.i
+	@echo ... LP2/Ex10.s
+	@echo ... LP2/Ex11.obj
+	@echo ... LP2/Ex11.i
+	@echo ... LP2/Ex11.s
+	@echo ... LP2/Ex12.obj
+	@echo ... LP2/Ex12.i
+	@echo ... LP2/Ex12.s
+	@echo ... LP2/Ex13.obj
+	@echo ... LP2/Ex13.i
+	@echo ... LP2/Ex13.s
+	@echo ... LP2/Ex14.obj
+	@echo ... LP2/Ex14.i
+	@echo ... LP2/Ex14.s
+	@echo ... LP2/Ex15.obj
+	@echo ... LP2/Ex15.i
+	@echo ... LP2/Ex15.s
+	@echo ... LP2/Ex16.obj
+	@echo ... LP2/Ex16.i
+	@echo ... LP2/Ex16.s
+	@echo ... LP2/Ex2.obj
+	@echo ... LP2/Ex2.i
+	@echo ... LP2/Ex2.s
+	@echo ... LP2/Ex3.obj
+	@echo ... LP2/Ex3.i
+	@echo ... LP2/Ex3.s
+	@echo ... LP2/Ex4.obj
+	@echo ... LP2/Ex4.i
+	@echo ... LP2/Ex4.s
+	@echo ... LP2/Ex5.obj
+	@echo ... LP2/Ex5.i
+	@echo ... LP2/Ex5.s
+	@echo ... LP2/Ex6.obj
+	@echo ... LP2/Ex6.i
+	@echo ... LP2/Ex6.s
+	@echo ... LP2/Ex7.obj
+	@echo ... LP2/Ex7.i
+	@echo ... LP2/Ex7.s
+	@echo ... LP2/Ex8.obj
+	@echo ... LP2/Ex8.i
+	@echo ... LP2/Ex8.s
+	@echo ... LP2/Ex9.obj
+	@echo ... LP2/Ex9.i
+	@echo ... LP2/Ex9.s
 	@echo ... TemaPeAcasa/Ex1.obj
 	@echo ... TemaPeAcasa/Ex1.i
 	@echo ... TemaPeAcasa/Ex1.s

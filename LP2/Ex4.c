@@ -1,39 +1,27 @@
 //
 // Created by Mihai Cataraga on 23.06.2024.
 //
+#include <limits.h>
 #include <stdio.h>
 
 void treiMicImpare(int arr[], int length) {
-    int celMaiMare = arr[0];
-    for(int i = 1; i < length; i++) {
-        if(celMaiMare < arr[i]) {
-            celMaiMare = arr[i];
-        }
-    }
-    int new[3] = {celMaiMare, celMaiMare, celMaiMare};
+    int celMaiMare = 0;
+    int mic1 = INT_MAX, mic2=INT_MAX, mic3=INT_MAX;
     for(int i = 0; i < length; i++) {
-        if(new[0] > arr[i] && arr[i] % 2 != 0) {
-            new[0] = arr[i];
-        }
-    }
-    for( int i = 0; i < length; i++) {
-        if(new[1] > arr[i] && arr[i] % 2 != 0) {
-            if(arr[i] > new[0]) {
-                new[1] = arr[i];
+        if(arr[i] % 2 != 0) {
+            if(arr[i] < mic1) {
+                mic3 = mic2;
+                mic2 = mic1;
+                mic1 = arr[i];
+            } else if(arr[i] < mic2 && arr[i] > mic1) {
+                mic3 = mic2;
+                mic2 = arr[i];
+            } else if(arr[i] < mic3 && arr[i] != mic1 && arr[i] > mic2) {
+                mic3 = arr[i];
             }
         }
     }
-    for( int i = 0; i < length; i++) {
-        if(new[2] > arr[i] && arr[i] % 2 != 0) {
-            if(arr[i] > new[1]) {
-                new[2] = arr[i];
-            }
-        }
-    }
-
-    for(int i = 0; i < 3; i++) {
-        printf("minodd%d=%d\n", i + 1, new[i]);
-    }
+    printf("minodd1=%d\nminodd2=%d\nmin0dd3=%d", mic1, mic2, mic3);
 }
 
 int main() {
