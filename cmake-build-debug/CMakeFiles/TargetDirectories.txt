@@ -100,5 +100,9 @@ C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.3.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.4.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.5.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.6.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.7.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.8.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.9.dir
+C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/LP2.2.10.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/catar/CLionProjects/CursSDA/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

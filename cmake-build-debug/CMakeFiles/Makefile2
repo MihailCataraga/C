@@ -164,6 +164,10 @@ all: CMakeFiles/LP2.2.3.dir/all
 all: CMakeFiles/LP2.2.4.dir/all
 all: CMakeFiles/LP2.2.5.dir/all
 all: CMakeFiles/LP2.2.6.dir/all
+all: CMakeFiles/LP2.2.7.dir/all
+all: CMakeFiles/LP2.2.8.dir/all
+all: CMakeFiles/LP2.2.9.dir/all
+all: CMakeFiles/LP2.2.10.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -273,6 +277,10 @@ clean: CMakeFiles/LP2.2.3.dir/clean
 clean: CMakeFiles/LP2.2.4.dir/clean
 clean: CMakeFiles/LP2.2.5.dir/clean
 clean: CMakeFiles/LP2.2.6.dir/clean
+clean: CMakeFiles/LP2.2.7.dir/clean
+clean: CMakeFiles/LP2.2.8.dir/clean
+clean: CMakeFiles/LP2.2.9.dir/clean
+clean: CMakeFiles/LP2.2.10.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -360,7 +368,7 @@ CMakeFiles/Ex2.dir/clean:
 CMakeFiles/Ex3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.dir\build.make CMakeFiles/Ex3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.dir\build.make CMakeFiles/Ex3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=36 "Built target Ex3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=34 "Built target Ex3"
 .PHONY : CMakeFiles/Ex3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -386,12 +394,12 @@ CMakeFiles/Ex3.dir/clean:
 CMakeFiles/Ex4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.dir\build.make CMakeFiles/Ex4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.dir\build.make CMakeFiles/Ex4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=52 "Built target Ex4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num= "Built target Ex4"
 .PHONY : CMakeFiles/Ex4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Ex4.dir/rule
@@ -412,7 +420,7 @@ CMakeFiles/Ex4.dir/clean:
 CMakeFiles/Ex5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.dir\build.make CMakeFiles/Ex5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=64 "Built target Ex5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=62 "Built target Ex5"
 .PHONY : CMakeFiles/Ex5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -438,7 +446,7 @@ CMakeFiles/Ex5.dir/clean:
 CMakeFiles/Ex6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.dir\build.make CMakeFiles/Ex6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=65 "Built target Ex6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=63 "Built target Ex6"
 .PHONY : CMakeFiles/Ex6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -464,7 +472,7 @@ CMakeFiles/Ex6.dir/clean:
 CMakeFiles/Ex7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex7.dir\build.make CMakeFiles/Ex7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=66 "Built target Ex7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=64 "Built target Ex7"
 .PHONY : CMakeFiles/Ex7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -490,7 +498,7 @@ CMakeFiles/Ex7.dir/clean:
 CMakeFiles/Ex8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex8.dir\build.make CMakeFiles/Ex8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=67 "Built target Ex8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=65 "Built target Ex8"
 .PHONY : CMakeFiles/Ex8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -516,7 +524,7 @@ CMakeFiles/Ex8.dir/clean:
 CMakeFiles/Ex9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex9.dir\build.make CMakeFiles/Ex9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=68 "Built target Ex9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=66 "Built target Ex9"
 .PHONY : CMakeFiles/Ex9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -698,7 +706,7 @@ CMakeFiles/Ex2.2.dir/clean:
 CMakeFiles/Ex2.3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.dir\build.make CMakeFiles/Ex2.3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.dir\build.make CMakeFiles/Ex2.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=18 "Built target Ex2.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=17 "Built target Ex2.3"
 .PHONY : CMakeFiles/Ex2.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -724,7 +732,7 @@ CMakeFiles/Ex2.3.dir/clean:
 CMakeFiles/Ex2.4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.4.dir\build.make CMakeFiles/Ex2.4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.4.dir\build.make CMakeFiles/Ex2.4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=30 "Built target Ex2.4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=29 "Built target Ex2.4"
 .PHONY : CMakeFiles/Ex2.4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -750,7 +758,7 @@ CMakeFiles/Ex2.4.dir/clean:
 CMakeFiles/Ex2.5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.5.dir\build.make CMakeFiles/Ex2.5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.5.dir\build.make CMakeFiles/Ex2.5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=31 "Built target Ex2.5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=30 "Built target Ex2.5"
 .PHONY : CMakeFiles/Ex2.5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -776,7 +784,7 @@ CMakeFiles/Ex2.5.dir/clean:
 CMakeFiles/Ex2.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.6.dir\build.make CMakeFiles/Ex2.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.6.dir\build.make CMakeFiles/Ex2.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=32 "Built target Ex2.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=31 "Built target Ex2.6"
 .PHONY : CMakeFiles/Ex2.6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -802,7 +810,7 @@ CMakeFiles/Ex2.6.dir/clean:
 CMakeFiles/Ex2.7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.7.dir\build.make CMakeFiles/Ex2.7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.7.dir\build.make CMakeFiles/Ex2.7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=33 "Built target Ex2.7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=32 "Built target Ex2.7"
 .PHONY : CMakeFiles/Ex2.7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -828,7 +836,7 @@ CMakeFiles/Ex2.7.dir/clean:
 CMakeFiles/Ex2.8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.8.dir\build.make CMakeFiles/Ex2.8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.8.dir\build.make CMakeFiles/Ex2.8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=34 "Built target Ex2.8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=33 "Built target Ex2.8"
 .PHONY : CMakeFiles/Ex2.8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -854,12 +862,12 @@ CMakeFiles/Ex2.8.dir/clean:
 CMakeFiles/Ex2.9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.9.dir\build.make CMakeFiles/Ex2.9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.9.dir\build.make CMakeFiles/Ex2.9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=35 "Built target Ex2.9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num= "Built target Ex2.9"
 .PHONY : CMakeFiles/Ex2.9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex2.9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex2.9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Ex2.9.dir/rule
@@ -1062,12 +1070,12 @@ CMakeFiles/Ex2.2.8.dir/clean:
 CMakeFiles/Ex2.2.9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.2.9.dir\build.make CMakeFiles/Ex2.2.9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.2.9.dir\build.make CMakeFiles/Ex2.2.9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=17 "Built target Ex2.2.9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num= "Built target Ex2.2.9"
 .PHONY : CMakeFiles/Ex2.2.9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex2.2.9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex2.2.9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Ex2.2.9.dir/rule
@@ -1114,7 +1122,7 @@ CMakeFiles/Ex2.2.10.dir/clean:
 CMakeFiles/Ex2.3.1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.1.dir\build.make CMakeFiles/Ex2.3.1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.1.dir\build.make CMakeFiles/Ex2.3.1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=19 "Built target Ex2.3.1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=18 "Built target Ex2.3.1"
 .PHONY : CMakeFiles/Ex2.3.1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1140,7 +1148,7 @@ CMakeFiles/Ex2.3.1.dir/clean:
 CMakeFiles/Ex2.3.2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.2.dir\build.make CMakeFiles/Ex2.3.2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.2.dir\build.make CMakeFiles/Ex2.3.2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=22 "Built target Ex2.3.2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=21 "Built target Ex2.3.2"
 .PHONY : CMakeFiles/Ex2.3.2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1166,7 +1174,7 @@ CMakeFiles/Ex2.3.2.dir/clean:
 CMakeFiles/Ex2.3.3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.3.dir\build.make CMakeFiles/Ex2.3.3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.3.dir\build.make CMakeFiles/Ex2.3.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=23 "Built target Ex2.3.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=22 "Built target Ex2.3.3"
 .PHONY : CMakeFiles/Ex2.3.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1192,7 +1200,7 @@ CMakeFiles/Ex2.3.3.dir/clean:
 CMakeFiles/Ex2.3.4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.4.dir\build.make CMakeFiles/Ex2.3.4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.4.dir\build.make CMakeFiles/Ex2.3.4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=24 "Built target Ex2.3.4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=23 "Built target Ex2.3.4"
 .PHONY : CMakeFiles/Ex2.3.4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1218,7 +1226,7 @@ CMakeFiles/Ex2.3.4.dir/clean:
 CMakeFiles/Ex2.3.5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.5.dir\build.make CMakeFiles/Ex2.3.5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.5.dir\build.make CMakeFiles/Ex2.3.5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=25 "Built target Ex2.3.5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=24 "Built target Ex2.3.5"
 .PHONY : CMakeFiles/Ex2.3.5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1244,7 +1252,7 @@ CMakeFiles/Ex2.3.5.dir/clean:
 CMakeFiles/Ex2.3.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.6.dir\build.make CMakeFiles/Ex2.3.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.6.dir\build.make CMakeFiles/Ex2.3.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=26 "Built target Ex2.3.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=25 "Built target Ex2.3.6"
 .PHONY : CMakeFiles/Ex2.3.6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1270,7 +1278,7 @@ CMakeFiles/Ex2.3.6.dir/clean:
 CMakeFiles/Ex2.3.7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.7.dir\build.make CMakeFiles/Ex2.3.7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.7.dir\build.make CMakeFiles/Ex2.3.7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=27 "Built target Ex2.3.7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=26 "Built target Ex2.3.7"
 .PHONY : CMakeFiles/Ex2.3.7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1296,7 +1304,7 @@ CMakeFiles/Ex2.3.7.dir/clean:
 CMakeFiles/Ex2.3.8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.8.dir\build.make CMakeFiles/Ex2.3.8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.8.dir\build.make CMakeFiles/Ex2.3.8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=28 "Built target Ex2.3.8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=27 "Built target Ex2.3.8"
 .PHONY : CMakeFiles/Ex2.3.8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1322,7 +1330,7 @@ CMakeFiles/Ex2.3.8.dir/clean:
 CMakeFiles/Ex2.3.9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.9.dir\build.make CMakeFiles/Ex2.3.9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.9.dir\build.make CMakeFiles/Ex2.3.9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=29 "Built target Ex2.3.9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=28 "Built target Ex2.3.9"
 .PHONY : CMakeFiles/Ex2.3.9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1348,7 +1356,7 @@ CMakeFiles/Ex2.3.9.dir/clean:
 CMakeFiles/Ex2.3.10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.10.dir\build.make CMakeFiles/Ex2.3.10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.10.dir\build.make CMakeFiles/Ex2.3.10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=20 "Built target Ex2.3.10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=19 "Built target Ex2.3.10"
 .PHONY : CMakeFiles/Ex2.3.10.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1374,7 +1382,7 @@ CMakeFiles/Ex2.3.10.dir/clean:
 CMakeFiles/Ex2.3.11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.11.dir\build.make CMakeFiles/Ex2.3.11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex2.3.11.dir\build.make CMakeFiles/Ex2.3.11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=21 "Built target Ex2.3.11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=20 "Built target Ex2.3.11"
 .PHONY : CMakeFiles/Ex2.3.11.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1400,12 +1408,12 @@ CMakeFiles/Ex2.3.11.dir/clean:
 CMakeFiles/LP1.1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.1.dir\build.make CMakeFiles/LP1.1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.1.dir\build.make CMakeFiles/LP1.1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=69 "Built target LP1.1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num= "Built target LP1.1"
 .PHONY : CMakeFiles/LP1.1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LP1.1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LP1.1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/LP1.1.dir/rule
@@ -1426,7 +1434,7 @@ CMakeFiles/LP1.1.dir/clean:
 CMakeFiles/LP1.2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.2.dir\build.make CMakeFiles/LP1.2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.2.dir\build.make CMakeFiles/LP1.2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=70 "Built target LP1.2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=67 "Built target LP1.2"
 .PHONY : CMakeFiles/LP1.2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1452,7 +1460,7 @@ CMakeFiles/LP1.2.dir/clean:
 CMakeFiles/LP1.3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.3.dir\build.make CMakeFiles/LP1.3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.3.dir\build.make CMakeFiles/LP1.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=71 "Built target LP1.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=68 "Built target LP1.3"
 .PHONY : CMakeFiles/LP1.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1478,7 +1486,7 @@ CMakeFiles/LP1.3.dir/clean:
 CMakeFiles/LP1.4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.4.dir\build.make CMakeFiles/LP1.4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.4.dir\build.make CMakeFiles/LP1.4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=72 "Built target LP1.4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=69 "Built target LP1.4"
 .PHONY : CMakeFiles/LP1.4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1504,7 +1512,7 @@ CMakeFiles/LP1.4.dir/clean:
 CMakeFiles/LP1.5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.5.dir\build.make CMakeFiles/LP1.5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.5.dir\build.make CMakeFiles/LP1.5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=73 "Built target LP1.5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=70 "Built target LP1.5"
 .PHONY : CMakeFiles/LP1.5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1530,7 +1538,7 @@ CMakeFiles/LP1.5.dir/clean:
 CMakeFiles/LP1.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.6.dir\build.make CMakeFiles/LP1.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.6.dir\build.make CMakeFiles/LP1.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=74 "Built target LP1.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=71 "Built target LP1.6"
 .PHONY : CMakeFiles/LP1.6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1556,7 +1564,7 @@ CMakeFiles/LP1.6.dir/clean:
 CMakeFiles/LP1.7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.7.dir\build.make CMakeFiles/LP1.7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.7.dir\build.make CMakeFiles/LP1.7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=75 "Built target LP1.7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=72 "Built target LP1.7"
 .PHONY : CMakeFiles/LP1.7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1582,7 +1590,7 @@ CMakeFiles/LP1.7.dir/clean:
 CMakeFiles/LP1.8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.8.dir\build.make CMakeFiles/LP1.8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.8.dir\build.make CMakeFiles/LP1.8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=76 "Built target LP1.8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=73 "Built target LP1.8"
 .PHONY : CMakeFiles/LP1.8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1608,7 +1616,7 @@ CMakeFiles/LP1.8.dir/clean:
 CMakeFiles/LP1.9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.9.dir\build.make CMakeFiles/LP1.9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.9.dir\build.make CMakeFiles/LP1.9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=77 "Built target LP1.9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=74 "Built target LP1.9"
 .PHONY : CMakeFiles/LP1.9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1634,7 +1642,7 @@ CMakeFiles/LP1.9.dir/clean:
 CMakeFiles/Ex3.1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.1.dir\build.make CMakeFiles/Ex3.1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.1.dir\build.make CMakeFiles/Ex3.1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=37 "Built target Ex3.1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=35 "Built target Ex3.1"
 .PHONY : CMakeFiles/Ex3.1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1660,7 +1668,7 @@ CMakeFiles/Ex3.1.dir/clean:
 CMakeFiles/Ex3.2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.dir\build.make CMakeFiles/Ex3.2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.dir\build.make CMakeFiles/Ex3.2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=38 "Built target Ex3.2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=36 "Built target Ex3.2"
 .PHONY : CMakeFiles/Ex3.2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1686,7 +1694,7 @@ CMakeFiles/Ex3.2.dir/clean:
 CMakeFiles/Ex3.3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.3.dir\build.make CMakeFiles/Ex3.3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.3.dir\build.make CMakeFiles/Ex3.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=48 "Built target Ex3.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=46 "Built target Ex3.3"
 .PHONY : CMakeFiles/Ex3.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1712,7 +1720,7 @@ CMakeFiles/Ex3.3.dir/clean:
 CMakeFiles/Ex3.4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.4.dir\build.make CMakeFiles/Ex3.4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.4.dir\build.make CMakeFiles/Ex3.4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=49 "Built target Ex3.4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=47 "Built target Ex3.4"
 .PHONY : CMakeFiles/Ex3.4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1738,7 +1746,7 @@ CMakeFiles/Ex3.4.dir/clean:
 CMakeFiles/Ex3.5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.5.dir\build.make CMakeFiles/Ex3.5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.5.dir\build.make CMakeFiles/Ex3.5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=50 "Built target Ex3.5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=48 "Built target Ex3.5"
 .PHONY : CMakeFiles/Ex3.5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1764,12 +1772,12 @@ CMakeFiles/Ex3.5.dir/clean:
 CMakeFiles/Ex3.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.6.dir\build.make CMakeFiles/Ex3.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.6.dir\build.make CMakeFiles/Ex3.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num= "Built target Ex3.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=49 "Built target Ex3.6"
 .PHONY : CMakeFiles/Ex3.6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex3.6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ex3.6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Ex3.6.dir/rule
@@ -1790,7 +1798,7 @@ CMakeFiles/Ex3.6.dir/clean:
 CMakeFiles/Ex3.7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.7.dir\build.make CMakeFiles/Ex3.7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.7.dir\build.make CMakeFiles/Ex3.7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=51 "Built target Ex3.7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=50 "Built target Ex3.7"
 .PHONY : CMakeFiles/Ex3.7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1816,7 +1824,7 @@ CMakeFiles/Ex3.7.dir/clean:
 CMakeFiles/Ex3.2.1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.1.dir\build.make CMakeFiles/Ex3.2.1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.1.dir\build.make CMakeFiles/Ex3.2.1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=39 "Built target Ex3.2.1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=37 "Built target Ex3.2.1"
 .PHONY : CMakeFiles/Ex3.2.1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1842,7 +1850,7 @@ CMakeFiles/Ex3.2.1.dir/clean:
 CMakeFiles/Ex3.2.2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.2.dir\build.make CMakeFiles/Ex3.2.2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.2.dir\build.make CMakeFiles/Ex3.2.2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=40 "Built target Ex3.2.2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=38 "Built target Ex3.2.2"
 .PHONY : CMakeFiles/Ex3.2.2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1868,7 +1876,7 @@ CMakeFiles/Ex3.2.2.dir/clean:
 CMakeFiles/Ex3.2.3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.3.dir\build.make CMakeFiles/Ex3.2.3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.3.dir\build.make CMakeFiles/Ex3.2.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=41 "Built target Ex3.2.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=39 "Built target Ex3.2.3"
 .PHONY : CMakeFiles/Ex3.2.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1894,7 +1902,7 @@ CMakeFiles/Ex3.2.3.dir/clean:
 CMakeFiles/Ex3.2.4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.4.dir\build.make CMakeFiles/Ex3.2.4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.4.dir\build.make CMakeFiles/Ex3.2.4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=42 "Built target Ex3.2.4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=40 "Built target Ex3.2.4"
 .PHONY : CMakeFiles/Ex3.2.4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1920,7 +1928,7 @@ CMakeFiles/Ex3.2.4.dir/clean:
 CMakeFiles/Ex3.2.5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.5.dir\build.make CMakeFiles/Ex3.2.5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.5.dir\build.make CMakeFiles/Ex3.2.5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=43 "Built target Ex3.2.5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=41 "Built target Ex3.2.5"
 .PHONY : CMakeFiles/Ex3.2.5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1946,7 +1954,7 @@ CMakeFiles/Ex3.2.5.dir/clean:
 CMakeFiles/Ex3.2.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.6.dir\build.make CMakeFiles/Ex3.2.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.6.dir\build.make CMakeFiles/Ex3.2.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=44 "Built target Ex3.2.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=42 "Built target Ex3.2.6"
 .PHONY : CMakeFiles/Ex3.2.6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1972,7 +1980,7 @@ CMakeFiles/Ex3.2.6.dir/clean:
 CMakeFiles/Ex3.2.7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.7.dir\build.make CMakeFiles/Ex3.2.7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.7.dir\build.make CMakeFiles/Ex3.2.7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=45 "Built target Ex3.2.7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=43 "Built target Ex3.2.7"
 .PHONY : CMakeFiles/Ex3.2.7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1998,7 +2006,7 @@ CMakeFiles/Ex3.2.7.dir/clean:
 CMakeFiles/Ex3.2.8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.8.dir\build.make CMakeFiles/Ex3.2.8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.8.dir\build.make CMakeFiles/Ex3.2.8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=46 "Built target Ex3.2.8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=44 "Built target Ex3.2.8"
 .PHONY : CMakeFiles/Ex3.2.8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2024,7 +2032,7 @@ CMakeFiles/Ex3.2.8.dir/clean:
 CMakeFiles/Ex3.2.9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.9.dir\build.make CMakeFiles/Ex3.2.9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex3.2.9.dir\build.make CMakeFiles/Ex3.2.9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=47 "Built target Ex3.2.9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=45 "Built target Ex3.2.9"
 .PHONY : CMakeFiles/Ex3.2.9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2050,7 +2058,7 @@ CMakeFiles/Ex3.2.9.dir/clean:
 CMakeFiles/Ex4.1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.1.dir\build.make CMakeFiles/Ex4.1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.1.dir\build.make CMakeFiles/Ex4.1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=53 "Built target Ex4.1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=51 "Built target Ex4.1"
 .PHONY : CMakeFiles/Ex4.1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2076,7 +2084,7 @@ CMakeFiles/Ex4.1.dir/clean:
 CMakeFiles/Ex4.2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.2.dir\build.make CMakeFiles/Ex4.2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.2.dir\build.make CMakeFiles/Ex4.2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=56 "Built target Ex4.2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=54 "Built target Ex4.2"
 .PHONY : CMakeFiles/Ex4.2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2102,7 +2110,7 @@ CMakeFiles/Ex4.2.dir/clean:
 CMakeFiles/Ex4.3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.3.dir\build.make CMakeFiles/Ex4.3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.3.dir\build.make CMakeFiles/Ex4.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=57 "Built target Ex4.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=55 "Built target Ex4.3"
 .PHONY : CMakeFiles/Ex4.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2128,7 +2136,7 @@ CMakeFiles/Ex4.3.dir/clean:
 CMakeFiles/Ex4.4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.4.dir\build.make CMakeFiles/Ex4.4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.4.dir\build.make CMakeFiles/Ex4.4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=58 "Built target Ex4.4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=56 "Built target Ex4.4"
 .PHONY : CMakeFiles/Ex4.4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2154,7 +2162,7 @@ CMakeFiles/Ex4.4.dir/clean:
 CMakeFiles/Ex4.5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.5.dir\build.make CMakeFiles/Ex4.5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.5.dir\build.make CMakeFiles/Ex4.5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=59 "Built target Ex4.5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=57 "Built target Ex4.5"
 .PHONY : CMakeFiles/Ex4.5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2180,7 +2188,7 @@ CMakeFiles/Ex4.5.dir/clean:
 CMakeFiles/Ex4.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.6.dir\build.make CMakeFiles/Ex4.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.6.dir\build.make CMakeFiles/Ex4.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=60 "Built target Ex4.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=58 "Built target Ex4.6"
 .PHONY : CMakeFiles/Ex4.6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2206,7 +2214,7 @@ CMakeFiles/Ex4.6.dir/clean:
 CMakeFiles/Ex4.7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.7.dir\build.make CMakeFiles/Ex4.7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.7.dir\build.make CMakeFiles/Ex4.7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=61 "Built target Ex4.7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=59 "Built target Ex4.7"
 .PHONY : CMakeFiles/Ex4.7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2232,7 +2240,7 @@ CMakeFiles/Ex4.7.dir/clean:
 CMakeFiles/Ex4.8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.8.dir\build.make CMakeFiles/Ex4.8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.8.dir\build.make CMakeFiles/Ex4.8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=62 "Built target Ex4.8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=60 "Built target Ex4.8"
 .PHONY : CMakeFiles/Ex4.8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2258,7 +2266,7 @@ CMakeFiles/Ex4.8.dir/clean:
 CMakeFiles/Ex4.9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.9.dir\build.make CMakeFiles/Ex4.9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.9.dir\build.make CMakeFiles/Ex4.9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=63 "Built target Ex4.9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=61 "Built target Ex4.9"
 .PHONY : CMakeFiles/Ex4.9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2284,7 +2292,7 @@ CMakeFiles/Ex4.9.dir/clean:
 CMakeFiles/Ex4.10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.10.dir\build.make CMakeFiles/Ex4.10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.10.dir\build.make CMakeFiles/Ex4.10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=54 "Built target Ex4.10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=52 "Built target Ex4.10"
 .PHONY : CMakeFiles/Ex4.10.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2310,7 +2318,7 @@ CMakeFiles/Ex4.10.dir/clean:
 CMakeFiles/Ex4.11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.11.dir\build.make CMakeFiles/Ex4.11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex4.11.dir\build.make CMakeFiles/Ex4.11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=55 "Built target Ex4.11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=53 "Built target Ex4.11"
 .PHONY : CMakeFiles/Ex4.11.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2336,7 +2344,7 @@ CMakeFiles/Ex4.11.dir/clean:
 CMakeFiles/LP2.1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.dir\build.make CMakeFiles/LP2.1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.dir\build.make CMakeFiles/LP2.1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=78 "Built target LP2.1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=75 "Built target LP2.1"
 .PHONY : CMakeFiles/LP2.1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2362,12 +2370,12 @@ CMakeFiles/LP2.1.dir/clean:
 CMakeFiles/LP2.2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.dir\build.make CMakeFiles/LP2.2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.dir\build.make CMakeFiles/LP2.2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=87 "Built target LP2.2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num= "Built target LP2.2"
 .PHONY : CMakeFiles/LP2.2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LP2.2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LP2.2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/LP2.2.dir/rule
@@ -2570,7 +2578,7 @@ CMakeFiles/LP2.9.dir/clean:
 CMakeFiles/LP2.10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.10.dir\build.make CMakeFiles/LP2.10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.10.dir\build.make CMakeFiles/LP2.10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=79 "Built target LP2.10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=76 "Built target LP2.10"
 .PHONY : CMakeFiles/LP2.10.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2596,7 +2604,7 @@ CMakeFiles/LP2.10.dir/clean:
 CMakeFiles/LP2.11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.11.dir\build.make CMakeFiles/LP2.11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.11.dir\build.make CMakeFiles/LP2.11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=80 "Built target LP2.11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=77 "Built target LP2.11"
 .PHONY : CMakeFiles/LP2.11.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2622,7 +2630,7 @@ CMakeFiles/LP2.11.dir/clean:
 CMakeFiles/LP2.12.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.12.dir\build.make CMakeFiles/LP2.12.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.12.dir\build.make CMakeFiles/LP2.12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=81 "Built target LP2.12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=78 "Built target LP2.12"
 .PHONY : CMakeFiles/LP2.12.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2648,7 +2656,7 @@ CMakeFiles/LP2.12.dir/clean:
 CMakeFiles/LP2.13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.13.dir\build.make CMakeFiles/LP2.13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.13.dir\build.make CMakeFiles/LP2.13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=82 "Built target LP2.13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=79 "Built target LP2.13"
 .PHONY : CMakeFiles/LP2.13.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2674,7 +2682,7 @@ CMakeFiles/LP2.13.dir/clean:
 CMakeFiles/LP2.14.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.14.dir\build.make CMakeFiles/LP2.14.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.14.dir\build.make CMakeFiles/LP2.14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=83 "Built target LP2.14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=80 "Built target LP2.14"
 .PHONY : CMakeFiles/LP2.14.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2700,7 +2708,7 @@ CMakeFiles/LP2.14.dir/clean:
 CMakeFiles/LP2.15.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.15.dir\build.make CMakeFiles/LP2.15.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.15.dir\build.make CMakeFiles/LP2.15.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=84 "Built target LP2.15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=81 "Built target LP2.15"
 .PHONY : CMakeFiles/LP2.15.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2726,7 +2734,7 @@ CMakeFiles/LP2.15.dir/clean:
 CMakeFiles/LP2.16.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.16.dir\build.make CMakeFiles/LP2.16.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.16.dir\build.make CMakeFiles/LP2.16.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=85 "Built target LP2.16"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=82 "Built target LP2.16"
 .PHONY : CMakeFiles/LP2.16.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2752,7 +2760,7 @@ CMakeFiles/LP2.16.dir/clean:
 CMakeFiles/LP2.17.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.17.dir\build.make CMakeFiles/LP2.17.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.17.dir\build.make CMakeFiles/LP2.17.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=86 "Built target LP2.17"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=83 "Built target LP2.17"
 .PHONY : CMakeFiles/LP2.17.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2778,7 +2786,7 @@ CMakeFiles/LP2.17.dir/clean:
 CMakeFiles/LP2.2.1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.1.dir\build.make CMakeFiles/LP2.2.1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.1.dir\build.make CMakeFiles/LP2.2.1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=88 "Built target LP2.2.1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=84 "Built target LP2.2.1"
 .PHONY : CMakeFiles/LP2.2.1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2830,7 +2838,7 @@ CMakeFiles/Lp2.2.2.dir/clean:
 CMakeFiles/LP2.2.3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.3.dir\build.make CMakeFiles/LP2.2.3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.3.dir\build.make CMakeFiles/LP2.2.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=89 "Built target LP2.2.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=86 "Built target LP2.2.3"
 .PHONY : CMakeFiles/LP2.2.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2856,7 +2864,7 @@ CMakeFiles/LP2.2.3.dir/clean:
 CMakeFiles/LP2.2.4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.4.dir\build.make CMakeFiles/LP2.2.4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.4.dir\build.make CMakeFiles/LP2.2.4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=90 "Built target LP2.2.4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=87 "Built target LP2.2.4"
 .PHONY : CMakeFiles/LP2.2.4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2882,7 +2890,7 @@ CMakeFiles/LP2.2.4.dir/clean:
 CMakeFiles/LP2.2.5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.5.dir\build.make CMakeFiles/LP2.2.5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.5.dir\build.make CMakeFiles/LP2.2.5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=91 "Built target LP2.2.5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=88 "Built target LP2.2.5"
 .PHONY : CMakeFiles/LP2.2.5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2908,7 +2916,7 @@ CMakeFiles/LP2.2.5.dir/clean:
 CMakeFiles/LP2.2.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.6.dir\build.make CMakeFiles/LP2.2.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.6.dir\build.make CMakeFiles/LP2.2.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=92 "Built target LP2.2.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=89 "Built target LP2.2.6"
 .PHONY : CMakeFiles/LP2.2.6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2926,6 +2934,110 @@ LP2.2.6: CMakeFiles/LP2.2.6.dir/rule
 CMakeFiles/LP2.2.6.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.6.dir\build.make CMakeFiles/LP2.2.6.dir/clean
 .PHONY : CMakeFiles/LP2.2.6.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LP2.2.7.dir
+
+# All Build rule for target.
+CMakeFiles/LP2.2.7.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.7.dir\build.make CMakeFiles/LP2.2.7.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.7.dir\build.make CMakeFiles/LP2.2.7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=90 "Built target LP2.2.7"
+.PHONY : CMakeFiles/LP2.2.7.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LP2.2.7.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LP2.2.7.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/LP2.2.7.dir/rule
+
+# Convenience name for target.
+LP2.2.7: CMakeFiles/LP2.2.7.dir/rule
+.PHONY : LP2.2.7
+
+# clean rule for target.
+CMakeFiles/LP2.2.7.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.7.dir\build.make CMakeFiles/LP2.2.7.dir/clean
+.PHONY : CMakeFiles/LP2.2.7.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LP2.2.8.dir
+
+# All Build rule for target.
+CMakeFiles/LP2.2.8.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.8.dir\build.make CMakeFiles/LP2.2.8.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.8.dir\build.make CMakeFiles/LP2.2.8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=91 "Built target LP2.2.8"
+.PHONY : CMakeFiles/LP2.2.8.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LP2.2.8.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LP2.2.8.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/LP2.2.8.dir/rule
+
+# Convenience name for target.
+LP2.2.8: CMakeFiles/LP2.2.8.dir/rule
+.PHONY : LP2.2.8
+
+# clean rule for target.
+CMakeFiles/LP2.2.8.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.8.dir\build.make CMakeFiles/LP2.2.8.dir/clean
+.PHONY : CMakeFiles/LP2.2.8.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LP2.2.9.dir
+
+# All Build rule for target.
+CMakeFiles/LP2.2.9.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.9.dir\build.make CMakeFiles/LP2.2.9.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.9.dir\build.make CMakeFiles/LP2.2.9.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=92 "Built target LP2.2.9"
+.PHONY : CMakeFiles/LP2.2.9.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LP2.2.9.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LP2.2.9.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/LP2.2.9.dir/rule
+
+# Convenience name for target.
+LP2.2.9: CMakeFiles/LP2.2.9.dir/rule
+.PHONY : LP2.2.9
+
+# clean rule for target.
+CMakeFiles/LP2.2.9.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.9.dir\build.make CMakeFiles/LP2.2.9.dir/clean
+.PHONY : CMakeFiles/LP2.2.9.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LP2.2.10.dir
+
+# All Build rule for target.
+CMakeFiles/LP2.2.10.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.10.dir\build.make CMakeFiles/LP2.2.10.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.10.dir\build.make CMakeFiles/LP2.2.10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles --progress-num=85 "Built target LP2.2.10"
+.PHONY : CMakeFiles/LP2.2.10.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LP2.2.10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LP2.2.10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/LP2.2.10.dir/rule
+
+# Convenience name for target.
+LP2.2.10: CMakeFiles/LP2.2.10.dir/rule
+.PHONY : LP2.2.10
+
+# clean rule for target.
+CMakeFiles/LP2.2.10.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.10.dir\build.make CMakeFiles/LP2.2.10.dir/clean
+.PHONY : CMakeFiles/LP2.2.10.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

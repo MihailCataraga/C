@@ -1441,6 +1441,58 @@ LP2.2.6/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.6.dir\build.make CMakeFiles/LP2.2.6.dir/build
 .PHONY : LP2.2.6/fast
 
+#=============================================================================
+# Target rules for targets named LP2.2.7
+
+# Build rule for target.
+LP2.2.7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.2.7
+.PHONY : LP2.2.7
+
+# fast build rule for target.
+LP2.2.7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.7.dir\build.make CMakeFiles/LP2.2.7.dir/build
+.PHONY : LP2.2.7/fast
+
+#=============================================================================
+# Target rules for targets named LP2.2.8
+
+# Build rule for target.
+LP2.2.8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.2.8
+.PHONY : LP2.2.8
+
+# fast build rule for target.
+LP2.2.8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.8.dir\build.make CMakeFiles/LP2.2.8.dir/build
+.PHONY : LP2.2.8/fast
+
+#=============================================================================
+# Target rules for targets named LP2.2.9
+
+# Build rule for target.
+LP2.2.9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.2.9
+.PHONY : LP2.2.9
+
+# fast build rule for target.
+LP2.2.9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.9.dir\build.make CMakeFiles/LP2.2.9.dir/build
+.PHONY : LP2.2.9/fast
+
+#=============================================================================
+# Target rules for targets named LP2.2.10
+
+# Build rule for target.
+LP2.2.10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.2.10
+.PHONY : LP2.2.10
+
+# fast build rule for target.
+LP2.2.10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.10.dir\build.make CMakeFiles/LP2.2.10.dir/build
+.PHONY : LP2.2.10/fast
+
 LP1/Ex1.obj: LP1/Ex1.c.obj
 .PHONY : LP1/Ex1.obj
 
@@ -1656,6 +1708,30 @@ LP1/Ex9.s: LP1/Ex9.c.s
 LP1/Ex9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.9.dir\build.make CMakeFiles/LP1.9.dir/LP1/Ex9.c.s
 .PHONY : LP1/Ex9.c.s
+
+LP2/EX2.7.obj: LP2/EX2.7.c.obj
+.PHONY : LP2/EX2.7.obj
+
+# target to build an object file
+LP2/EX2.7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.7.dir\build.make CMakeFiles/LP2.2.7.dir/LP2/EX2.7.c.obj
+.PHONY : LP2/EX2.7.c.obj
+
+LP2/EX2.7.i: LP2/EX2.7.c.i
+.PHONY : LP2/EX2.7.i
+
+# target to preprocess a source file
+LP2/EX2.7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.7.dir\build.make CMakeFiles/LP2.2.7.dir/LP2/EX2.7.c.i
+.PHONY : LP2/EX2.7.c.i
+
+LP2/EX2.7.s: LP2/EX2.7.c.s
+.PHONY : LP2/EX2.7.s
+
+# target to generate assembly for a file
+LP2/EX2.7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.7.dir\build.make CMakeFiles/LP2.2.7.dir/LP2/EX2.7.c.s
+.PHONY : LP2/EX2.7.c.s
 
 LP2/Ex1.obj: LP2/Ex1.c.obj
 .PHONY : LP2/Ex1.obj
@@ -1897,6 +1973,30 @@ LP2/Ex2.1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.1.dir\build.make CMakeFiles/LP2.2.1.dir/LP2/Ex2.1.c.s
 .PHONY : LP2/Ex2.1.c.s
 
+LP2/Ex2.10.obj: LP2/Ex2.10.c.obj
+.PHONY : LP2/Ex2.10.obj
+
+# target to build an object file
+LP2/Ex2.10.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.10.dir\build.make CMakeFiles/LP2.2.10.dir/LP2/Ex2.10.c.obj
+.PHONY : LP2/Ex2.10.c.obj
+
+LP2/Ex2.10.i: LP2/Ex2.10.c.i
+.PHONY : LP2/Ex2.10.i
+
+# target to preprocess a source file
+LP2/Ex2.10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.10.dir\build.make CMakeFiles/LP2.2.10.dir/LP2/Ex2.10.c.i
+.PHONY : LP2/Ex2.10.c.i
+
+LP2/Ex2.10.s: LP2/Ex2.10.c.s
+.PHONY : LP2/Ex2.10.s
+
+# target to generate assembly for a file
+LP2/Ex2.10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.10.dir\build.make CMakeFiles/LP2.2.10.dir/LP2/Ex2.10.c.s
+.PHONY : LP2/Ex2.10.c.s
+
 LP2/Ex2.2.obj: LP2/Ex2.2.c.obj
 .PHONY : LP2/Ex2.2.obj
 
@@ -2016,6 +2116,54 @@ LP2/Ex2.6.s: LP2/Ex2.6.c.s
 LP2/Ex2.6.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.6.dir\build.make CMakeFiles/LP2.2.6.dir/LP2/Ex2.6.c.s
 .PHONY : LP2/Ex2.6.c.s
+
+LP2/Ex2.8.obj: LP2/Ex2.8.c.obj
+.PHONY : LP2/Ex2.8.obj
+
+# target to build an object file
+LP2/Ex2.8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.8.dir\build.make CMakeFiles/LP2.2.8.dir/LP2/Ex2.8.c.obj
+.PHONY : LP2/Ex2.8.c.obj
+
+LP2/Ex2.8.i: LP2/Ex2.8.c.i
+.PHONY : LP2/Ex2.8.i
+
+# target to preprocess a source file
+LP2/Ex2.8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.8.dir\build.make CMakeFiles/LP2.2.8.dir/LP2/Ex2.8.c.i
+.PHONY : LP2/Ex2.8.c.i
+
+LP2/Ex2.8.s: LP2/Ex2.8.c.s
+.PHONY : LP2/Ex2.8.s
+
+# target to generate assembly for a file
+LP2/Ex2.8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.8.dir\build.make CMakeFiles/LP2.2.8.dir/LP2/Ex2.8.c.s
+.PHONY : LP2/Ex2.8.c.s
+
+LP2/Ex2.9.obj: LP2/Ex2.9.c.obj
+.PHONY : LP2/Ex2.9.obj
+
+# target to build an object file
+LP2/Ex2.9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.9.dir\build.make CMakeFiles/LP2.2.9.dir/LP2/Ex2.9.c.obj
+.PHONY : LP2/Ex2.9.c.obj
+
+LP2/Ex2.9.i: LP2/Ex2.9.c.i
+.PHONY : LP2/Ex2.9.i
+
+# target to preprocess a source file
+LP2/Ex2.9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.9.dir\build.make CMakeFiles/LP2.2.9.dir/LP2/Ex2.9.c.i
+.PHONY : LP2/Ex2.9.c.i
+
+LP2/Ex2.9.s: LP2/Ex2.9.c.s
+.PHONY : LP2/Ex2.9.s
+
+# target to generate assembly for a file
+LP2/Ex2.9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.9.dir\build.make CMakeFiles/LP2.2.9.dir/LP2/Ex2.9.c.s
+.PHONY : LP2/Ex2.9.c.s
 
 LP2/Ex2.obj: LP2/Ex2.c.obj
 .PHONY : LP2/Ex2.obj
@@ -3987,10 +4135,14 @@ help:
 	@echo ... LP2.17
 	@echo ... LP2.2
 	@echo ... LP2.2.1
+	@echo ... LP2.2.10
 	@echo ... LP2.2.3
 	@echo ... LP2.2.4
 	@echo ... LP2.2.5
 	@echo ... LP2.2.6
+	@echo ... LP2.2.7
+	@echo ... LP2.2.8
+	@echo ... LP2.2.9
 	@echo ... LP2.3
 	@echo ... LP2.4
 	@echo ... LP2.5
@@ -4026,6 +4178,9 @@ help:
 	@echo ... LP1/Ex9.obj
 	@echo ... LP1/Ex9.i
 	@echo ... LP1/Ex9.s
+	@echo ... LP2/EX2.7.obj
+	@echo ... LP2/EX2.7.i
+	@echo ... LP2/EX2.7.s
 	@echo ... LP2/Ex1.obj
 	@echo ... LP2/Ex1.i
 	@echo ... LP2/Ex1.s
@@ -4056,6 +4211,9 @@ help:
 	@echo ... LP2/Ex2.1.obj
 	@echo ... LP2/Ex2.1.i
 	@echo ... LP2/Ex2.1.s
+	@echo ... LP2/Ex2.10.obj
+	@echo ... LP2/Ex2.10.i
+	@echo ... LP2/Ex2.10.s
 	@echo ... LP2/Ex2.2.obj
 	@echo ... LP2/Ex2.2.i
 	@echo ... LP2/Ex2.2.s
@@ -4071,6 +4229,12 @@ help:
 	@echo ... LP2/Ex2.6.obj
 	@echo ... LP2/Ex2.6.i
 	@echo ... LP2/Ex2.6.s
+	@echo ... LP2/Ex2.8.obj
+	@echo ... LP2/Ex2.8.i
+	@echo ... LP2/Ex2.8.s
+	@echo ... LP2/Ex2.9.obj
+	@echo ... LP2/Ex2.9.i
+	@echo ... LP2/Ex2.9.s
 	@echo ... LP2/Ex2.obj
 	@echo ... LP2/Ex2.i
 	@echo ... LP2/Ex2.s
