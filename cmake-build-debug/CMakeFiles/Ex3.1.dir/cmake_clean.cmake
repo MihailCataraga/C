@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Ex3.1.dir/TemaPeAcasa3/Ex1.c.obj"
+  "CMakeFiles/Ex3.1.dir/TemaPeAcasa3/Ex1.c.obj.d"
+  "Ex3.1.exe"
+  "Ex3.1.exe.manifest"
+  "Ex3.1.pdb"
+  "libEx3.1.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Ex3.1.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

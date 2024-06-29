@@ -7,9 +7,16 @@
 
 void diagonalelePrincipale(int arr[R][C]) {
     for(int k = 0; k < R; k++) {
-        for(int i = 0; i < R; i++) {
-
+        for(int i = 0, j = R - 1 - k; j < R; i++, j++) {
+            printf("%d ", arr[i][j]);
         }
+        printf("\n");
+    }
+    for (int k = 1; k < R; k++) {
+        for (int i = k, j = 0; i < R; i++, j++) {
+            printf("%d ", arr[i][j]);
+        }
+        printf("\n");
     }
 }
 
