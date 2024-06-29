@@ -13,6 +13,8 @@ void mediaCeluiMaiMicSubsir(int arr[], int length) {
     for(int i = 0; i < length; i++) {
         if(arr[i] == arr[i-1] + 1) {
             count++;
+            sum = arr[i-1];
+            sum += arr[i];
             if(count < celMaiMic && count > 1) {
                 index = i-1;
                 celMaiMic = count;
