@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.1.3\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\catar\CLionProjects\CursSDA\C
+CMAKE_SOURCE_DIR = C:\Users\catar\CLionProjects\CursSDA
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\catar\CLionProjects\CursSDA\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\cmake-build-debug\CMakeFiles C:\Users\catar\CLionProjects\CursSDA\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\C\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\catar\CLionProjects\CursSDA\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -1636,6 +1636,227 @@ Ex5.11/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.11.dir\build.make CMakeFiles/Ex5.11.dir/build
 .PHONY : Ex5.11/fast
 
+#=============================================================================
+# Target rules for targets named LP2.1.1
+
+# Build rule for target.
+LP2.1.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1.1
+.PHONY : LP2.1.1
+
+# fast build rule for target.
+LP2.1.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.1.dir\build.make CMakeFiles/LP2.1.1.dir/build
+.PHONY : LP2.1.1/fast
+
+#=============================================================================
+# Target rules for targets named LP2.1.2
+
+# Build rule for target.
+LP2.1.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1.2
+.PHONY : LP2.1.2
+
+# fast build rule for target.
+LP2.1.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.dir\build.make CMakeFiles/LP2.1.2.dir/build
+.PHONY : LP2.1.2/fast
+
+#=============================================================================
+# Target rules for targets named LP2.1.3
+
+# Build rule for target.
+LP2.1.3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1.3
+.PHONY : LP2.1.3
+
+# fast build rule for target.
+LP2.1.3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.3.dir\build.make CMakeFiles/LP2.1.3.dir/build
+.PHONY : LP2.1.3/fast
+
+#=============================================================================
+# Target rules for targets named LP2.1.4
+
+# Build rule for target.
+LP2.1.4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1.4
+.PHONY : LP2.1.4
+
+# fast build rule for target.
+LP2.1.4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.4.dir\build.make CMakeFiles/LP2.1.4.dir/build
+.PHONY : LP2.1.4/fast
+
+#=============================================================================
+# Target rules for targets named LP2.1.5
+
+# Build rule for target.
+LP2.1.5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1.5
+.PHONY : LP2.1.5
+
+# fast build rule for target.
+LP2.1.5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.5.dir\build.make CMakeFiles/LP2.1.5.dir/build
+.PHONY : LP2.1.5/fast
+
+#=============================================================================
+# Target rules for targets named LP2.1.6
+
+# Build rule for target.
+LP2.1.6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1.6
+.PHONY : LP2.1.6
+
+# fast build rule for target.
+LP2.1.6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.6.dir\build.make CMakeFiles/LP2.1.6.dir/build
+.PHONY : LP2.1.6/fast
+
+#=============================================================================
+# Target rules for targets named LP2.1.2.1
+
+# Build rule for target.
+LP2.1.2.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.1.2.1
+.PHONY : LP2.1.2.1
+
+# fast build rule for target.
+LP2.1.2.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.1.dir\build.make CMakeFiles/LP2.1.2.1.dir/build
+.PHONY : LP2.1.2.1/fast
+
+#=============================================================================
+# Target rules for targets named LP2.2.2.2
+
+# Build rule for target.
+LP2.2.2.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LP2.2.2.2
+.PHONY : LP2.2.2.2
+
+# fast build rule for target.
+LP2.2.2.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.2.2.dir\build.make CMakeFiles/LP2.2.2.2.dir/build
+.PHONY : LP2.2.2.2/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.1
+
+# Build rule for target.
+Ex6.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.1
+.PHONY : Ex6.1
+
+# fast build rule for target.
+Ex6.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.1.dir\build.make CMakeFiles/Ex6.1.dir/build
+.PHONY : Ex6.1/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.2
+
+# Build rule for target.
+Ex6.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.2
+.PHONY : Ex6.2
+
+# fast build rule for target.
+Ex6.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.2.dir\build.make CMakeFiles/Ex6.2.dir/build
+.PHONY : Ex6.2/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.3
+
+# Build rule for target.
+Ex6.3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.3
+.PHONY : Ex6.3
+
+# fast build rule for target.
+Ex6.3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.3.dir\build.make CMakeFiles/Ex6.3.dir/build
+.PHONY : Ex6.3/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.4
+
+# Build rule for target.
+Ex6.4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.4
+.PHONY : Ex6.4
+
+# fast build rule for target.
+Ex6.4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.4.dir\build.make CMakeFiles/Ex6.4.dir/build
+.PHONY : Ex6.4/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.5
+
+# Build rule for target.
+Ex6.5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.5
+.PHONY : Ex6.5
+
+# fast build rule for target.
+Ex6.5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.5.dir\build.make CMakeFiles/Ex6.5.dir/build
+.PHONY : Ex6.5/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.6
+
+# Build rule for target.
+Ex6.6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.6
+.PHONY : Ex6.6
+
+# fast build rule for target.
+Ex6.6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.6.dir\build.make CMakeFiles/Ex6.6.dir/build
+.PHONY : Ex6.6/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.7
+
+# Build rule for target.
+Ex6.7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.7
+.PHONY : Ex6.7
+
+# fast build rule for target.
+Ex6.7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.7.dir\build.make CMakeFiles/Ex6.7.dir/build
+.PHONY : Ex6.7/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.8
+
+# Build rule for target.
+Ex6.8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.8
+.PHONY : Ex6.8
+
+# fast build rule for target.
+Ex6.8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.8.dir\build.make CMakeFiles/Ex6.8.dir/build
+.PHONY : Ex6.8/fast
+
+#=============================================================================
+# Target rules for targets named Ex6.9
+
+# Build rule for target.
+Ex6.9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ex6.9
+.PHONY : Ex6.9
+
+# fast build rule for target.
+Ex6.9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.9.dir\build.make CMakeFiles/Ex6.9.dir/build
+.PHONY : Ex6.9/fast
+
 LP1/Ex1.obj: LP1/Ex1.c.obj
 .PHONY : LP1/Ex1.obj
 
@@ -1851,6 +2072,198 @@ LP1/Ex9.s: LP1/Ex9.c.s
 LP1/Ex9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP1.9.dir\build.make CMakeFiles/LP1.9.dir/LP1/Ex9.c.s
 .PHONY : LP1/Ex9.c.s
+
+LP2.1/Ex1.obj: LP2.1/Ex1.c.obj
+.PHONY : LP2.1/Ex1.obj
+
+# target to build an object file
+LP2.1/Ex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.1.dir\build.make CMakeFiles/LP2.1.1.dir/LP2.1/Ex1.c.obj
+.PHONY : LP2.1/Ex1.c.obj
+
+LP2.1/Ex1.i: LP2.1/Ex1.c.i
+.PHONY : LP2.1/Ex1.i
+
+# target to preprocess a source file
+LP2.1/Ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.1.dir\build.make CMakeFiles/LP2.1.1.dir/LP2.1/Ex1.c.i
+.PHONY : LP2.1/Ex1.c.i
+
+LP2.1/Ex1.s: LP2.1/Ex1.c.s
+.PHONY : LP2.1/Ex1.s
+
+# target to generate assembly for a file
+LP2.1/Ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.1.dir\build.make CMakeFiles/LP2.1.1.dir/LP2.1/Ex1.c.s
+.PHONY : LP2.1/Ex1.c.s
+
+LP2.1/Ex2.1.obj: LP2.1/Ex2.1.c.obj
+.PHONY : LP2.1/Ex2.1.obj
+
+# target to build an object file
+LP2.1/Ex2.1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.1.dir\build.make CMakeFiles/LP2.1.2.1.dir/LP2.1/Ex2.1.c.obj
+.PHONY : LP2.1/Ex2.1.c.obj
+
+LP2.1/Ex2.1.i: LP2.1/Ex2.1.c.i
+.PHONY : LP2.1/Ex2.1.i
+
+# target to preprocess a source file
+LP2.1/Ex2.1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.1.dir\build.make CMakeFiles/LP2.1.2.1.dir/LP2.1/Ex2.1.c.i
+.PHONY : LP2.1/Ex2.1.c.i
+
+LP2.1/Ex2.1.s: LP2.1/Ex2.1.c.s
+.PHONY : LP2.1/Ex2.1.s
+
+# target to generate assembly for a file
+LP2.1/Ex2.1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.1.dir\build.make CMakeFiles/LP2.1.2.1.dir/LP2.1/Ex2.1.c.s
+.PHONY : LP2.1/Ex2.1.c.s
+
+LP2.1/Ex2.2.obj: LP2.1/Ex2.2.c.obj
+.PHONY : LP2.1/Ex2.2.obj
+
+# target to build an object file
+LP2.1/Ex2.2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.2.2.dir\build.make CMakeFiles/LP2.2.2.2.dir/LP2.1/Ex2.2.c.obj
+.PHONY : LP2.1/Ex2.2.c.obj
+
+LP2.1/Ex2.2.i: LP2.1/Ex2.2.c.i
+.PHONY : LP2.1/Ex2.2.i
+
+# target to preprocess a source file
+LP2.1/Ex2.2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.2.2.dir\build.make CMakeFiles/LP2.2.2.2.dir/LP2.1/Ex2.2.c.i
+.PHONY : LP2.1/Ex2.2.c.i
+
+LP2.1/Ex2.2.s: LP2.1/Ex2.2.c.s
+.PHONY : LP2.1/Ex2.2.s
+
+# target to generate assembly for a file
+LP2.1/Ex2.2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.2.2.2.dir\build.make CMakeFiles/LP2.2.2.2.dir/LP2.1/Ex2.2.c.s
+.PHONY : LP2.1/Ex2.2.c.s
+
+LP2.1/Ex2.obj: LP2.1/Ex2.c.obj
+.PHONY : LP2.1/Ex2.obj
+
+# target to build an object file
+LP2.1/Ex2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.dir\build.make CMakeFiles/LP2.1.2.dir/LP2.1/Ex2.c.obj
+.PHONY : LP2.1/Ex2.c.obj
+
+LP2.1/Ex2.i: LP2.1/Ex2.c.i
+.PHONY : LP2.1/Ex2.i
+
+# target to preprocess a source file
+LP2.1/Ex2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.dir\build.make CMakeFiles/LP2.1.2.dir/LP2.1/Ex2.c.i
+.PHONY : LP2.1/Ex2.c.i
+
+LP2.1/Ex2.s: LP2.1/Ex2.c.s
+.PHONY : LP2.1/Ex2.s
+
+# target to generate assembly for a file
+LP2.1/Ex2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.2.dir\build.make CMakeFiles/LP2.1.2.dir/LP2.1/Ex2.c.s
+.PHONY : LP2.1/Ex2.c.s
+
+LP2.1/Ex3.obj: LP2.1/Ex3.c.obj
+.PHONY : LP2.1/Ex3.obj
+
+# target to build an object file
+LP2.1/Ex3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.3.dir\build.make CMakeFiles/LP2.1.3.dir/LP2.1/Ex3.c.obj
+.PHONY : LP2.1/Ex3.c.obj
+
+LP2.1/Ex3.i: LP2.1/Ex3.c.i
+.PHONY : LP2.1/Ex3.i
+
+# target to preprocess a source file
+LP2.1/Ex3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.3.dir\build.make CMakeFiles/LP2.1.3.dir/LP2.1/Ex3.c.i
+.PHONY : LP2.1/Ex3.c.i
+
+LP2.1/Ex3.s: LP2.1/Ex3.c.s
+.PHONY : LP2.1/Ex3.s
+
+# target to generate assembly for a file
+LP2.1/Ex3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.3.dir\build.make CMakeFiles/LP2.1.3.dir/LP2.1/Ex3.c.s
+.PHONY : LP2.1/Ex3.c.s
+
+LP2.1/Ex4.obj: LP2.1/Ex4.c.obj
+.PHONY : LP2.1/Ex4.obj
+
+# target to build an object file
+LP2.1/Ex4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.4.dir\build.make CMakeFiles/LP2.1.4.dir/LP2.1/Ex4.c.obj
+.PHONY : LP2.1/Ex4.c.obj
+
+LP2.1/Ex4.i: LP2.1/Ex4.c.i
+.PHONY : LP2.1/Ex4.i
+
+# target to preprocess a source file
+LP2.1/Ex4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.4.dir\build.make CMakeFiles/LP2.1.4.dir/LP2.1/Ex4.c.i
+.PHONY : LP2.1/Ex4.c.i
+
+LP2.1/Ex4.s: LP2.1/Ex4.c.s
+.PHONY : LP2.1/Ex4.s
+
+# target to generate assembly for a file
+LP2.1/Ex4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.4.dir\build.make CMakeFiles/LP2.1.4.dir/LP2.1/Ex4.c.s
+.PHONY : LP2.1/Ex4.c.s
+
+LP2.1/Ex5.obj: LP2.1/Ex5.c.obj
+.PHONY : LP2.1/Ex5.obj
+
+# target to build an object file
+LP2.1/Ex5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.5.dir\build.make CMakeFiles/LP2.1.5.dir/LP2.1/Ex5.c.obj
+.PHONY : LP2.1/Ex5.c.obj
+
+LP2.1/Ex5.i: LP2.1/Ex5.c.i
+.PHONY : LP2.1/Ex5.i
+
+# target to preprocess a source file
+LP2.1/Ex5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.5.dir\build.make CMakeFiles/LP2.1.5.dir/LP2.1/Ex5.c.i
+.PHONY : LP2.1/Ex5.c.i
+
+LP2.1/Ex5.s: LP2.1/Ex5.c.s
+.PHONY : LP2.1/Ex5.s
+
+# target to generate assembly for a file
+LP2.1/Ex5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.5.dir\build.make CMakeFiles/LP2.1.5.dir/LP2.1/Ex5.c.s
+.PHONY : LP2.1/Ex5.c.s
+
+LP2.1/Ex6.obj: LP2.1/Ex6.c.obj
+.PHONY : LP2.1/Ex6.obj
+
+# target to build an object file
+LP2.1/Ex6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.6.dir\build.make CMakeFiles/LP2.1.6.dir/LP2.1/Ex6.c.obj
+.PHONY : LP2.1/Ex6.c.obj
+
+LP2.1/Ex6.i: LP2.1/Ex6.c.i
+.PHONY : LP2.1/Ex6.i
+
+# target to preprocess a source file
+LP2.1/Ex6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.6.dir\build.make CMakeFiles/LP2.1.6.dir/LP2.1/Ex6.c.i
+.PHONY : LP2.1/Ex6.c.i
+
+LP2.1/Ex6.s: LP2.1/Ex6.c.s
+.PHONY : LP2.1/Ex6.s
+
+# target to generate assembly for a file
+LP2.1/Ex6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LP2.1.6.dir\build.make CMakeFiles/LP2.1.6.dir/LP2.1/Ex6.c.s
+.PHONY : LP2.1/Ex6.c.s
 
 LP2/EX2.7.obj: LP2/EX2.7.c.obj
 .PHONY : LP2/EX2.7.obj
@@ -4420,6 +4833,222 @@ TemaPeAcasa5/Ex9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex5.9.dir\build.make CMakeFiles/Ex5.9.dir/TemaPeAcasa5/Ex9.c.s
 .PHONY : TemaPeAcasa5/Ex9.c.s
 
+TemaPeAcasa6/Ex1.obj: TemaPeAcasa6/Ex1.c.obj
+.PHONY : TemaPeAcasa6/Ex1.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.1.dir\build.make CMakeFiles/Ex6.1.dir/TemaPeAcasa6/Ex1.c.obj
+.PHONY : TemaPeAcasa6/Ex1.c.obj
+
+TemaPeAcasa6/Ex1.i: TemaPeAcasa6/Ex1.c.i
+.PHONY : TemaPeAcasa6/Ex1.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.1.dir\build.make CMakeFiles/Ex6.1.dir/TemaPeAcasa6/Ex1.c.i
+.PHONY : TemaPeAcasa6/Ex1.c.i
+
+TemaPeAcasa6/Ex1.s: TemaPeAcasa6/Ex1.c.s
+.PHONY : TemaPeAcasa6/Ex1.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.1.dir\build.make CMakeFiles/Ex6.1.dir/TemaPeAcasa6/Ex1.c.s
+.PHONY : TemaPeAcasa6/Ex1.c.s
+
+TemaPeAcasa6/Ex2.obj: TemaPeAcasa6/Ex2.c.obj
+.PHONY : TemaPeAcasa6/Ex2.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.2.dir\build.make CMakeFiles/Ex6.2.dir/TemaPeAcasa6/Ex2.c.obj
+.PHONY : TemaPeAcasa6/Ex2.c.obj
+
+TemaPeAcasa6/Ex2.i: TemaPeAcasa6/Ex2.c.i
+.PHONY : TemaPeAcasa6/Ex2.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.2.dir\build.make CMakeFiles/Ex6.2.dir/TemaPeAcasa6/Ex2.c.i
+.PHONY : TemaPeAcasa6/Ex2.c.i
+
+TemaPeAcasa6/Ex2.s: TemaPeAcasa6/Ex2.c.s
+.PHONY : TemaPeAcasa6/Ex2.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.2.dir\build.make CMakeFiles/Ex6.2.dir/TemaPeAcasa6/Ex2.c.s
+.PHONY : TemaPeAcasa6/Ex2.c.s
+
+TemaPeAcasa6/Ex3.obj: TemaPeAcasa6/Ex3.c.obj
+.PHONY : TemaPeAcasa6/Ex3.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.3.dir\build.make CMakeFiles/Ex6.3.dir/TemaPeAcasa6/Ex3.c.obj
+.PHONY : TemaPeAcasa6/Ex3.c.obj
+
+TemaPeAcasa6/Ex3.i: TemaPeAcasa6/Ex3.c.i
+.PHONY : TemaPeAcasa6/Ex3.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.3.dir\build.make CMakeFiles/Ex6.3.dir/TemaPeAcasa6/Ex3.c.i
+.PHONY : TemaPeAcasa6/Ex3.c.i
+
+TemaPeAcasa6/Ex3.s: TemaPeAcasa6/Ex3.c.s
+.PHONY : TemaPeAcasa6/Ex3.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.3.dir\build.make CMakeFiles/Ex6.3.dir/TemaPeAcasa6/Ex3.c.s
+.PHONY : TemaPeAcasa6/Ex3.c.s
+
+TemaPeAcasa6/Ex4.obj: TemaPeAcasa6/Ex4.c.obj
+.PHONY : TemaPeAcasa6/Ex4.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.4.dir\build.make CMakeFiles/Ex6.4.dir/TemaPeAcasa6/Ex4.c.obj
+.PHONY : TemaPeAcasa6/Ex4.c.obj
+
+TemaPeAcasa6/Ex4.i: TemaPeAcasa6/Ex4.c.i
+.PHONY : TemaPeAcasa6/Ex4.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.4.dir\build.make CMakeFiles/Ex6.4.dir/TemaPeAcasa6/Ex4.c.i
+.PHONY : TemaPeAcasa6/Ex4.c.i
+
+TemaPeAcasa6/Ex4.s: TemaPeAcasa6/Ex4.c.s
+.PHONY : TemaPeAcasa6/Ex4.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.4.dir\build.make CMakeFiles/Ex6.4.dir/TemaPeAcasa6/Ex4.c.s
+.PHONY : TemaPeAcasa6/Ex4.c.s
+
+TemaPeAcasa6/Ex5.obj: TemaPeAcasa6/Ex5.c.obj
+.PHONY : TemaPeAcasa6/Ex5.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.5.dir\build.make CMakeFiles/Ex6.5.dir/TemaPeAcasa6/Ex5.c.obj
+.PHONY : TemaPeAcasa6/Ex5.c.obj
+
+TemaPeAcasa6/Ex5.i: TemaPeAcasa6/Ex5.c.i
+.PHONY : TemaPeAcasa6/Ex5.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.5.dir\build.make CMakeFiles/Ex6.5.dir/TemaPeAcasa6/Ex5.c.i
+.PHONY : TemaPeAcasa6/Ex5.c.i
+
+TemaPeAcasa6/Ex5.s: TemaPeAcasa6/Ex5.c.s
+.PHONY : TemaPeAcasa6/Ex5.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.5.dir\build.make CMakeFiles/Ex6.5.dir/TemaPeAcasa6/Ex5.c.s
+.PHONY : TemaPeAcasa6/Ex5.c.s
+
+TemaPeAcasa6/Ex6.obj: TemaPeAcasa6/Ex6.c.obj
+.PHONY : TemaPeAcasa6/Ex6.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.6.dir\build.make CMakeFiles/Ex6.6.dir/TemaPeAcasa6/Ex6.c.obj
+.PHONY : TemaPeAcasa6/Ex6.c.obj
+
+TemaPeAcasa6/Ex6.i: TemaPeAcasa6/Ex6.c.i
+.PHONY : TemaPeAcasa6/Ex6.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.6.dir\build.make CMakeFiles/Ex6.6.dir/TemaPeAcasa6/Ex6.c.i
+.PHONY : TemaPeAcasa6/Ex6.c.i
+
+TemaPeAcasa6/Ex6.s: TemaPeAcasa6/Ex6.c.s
+.PHONY : TemaPeAcasa6/Ex6.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.6.dir\build.make CMakeFiles/Ex6.6.dir/TemaPeAcasa6/Ex6.c.s
+.PHONY : TemaPeAcasa6/Ex6.c.s
+
+TemaPeAcasa6/Ex7.obj: TemaPeAcasa6/Ex7.c.obj
+.PHONY : TemaPeAcasa6/Ex7.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.7.dir\build.make CMakeFiles/Ex6.7.dir/TemaPeAcasa6/Ex7.c.obj
+.PHONY : TemaPeAcasa6/Ex7.c.obj
+
+TemaPeAcasa6/Ex7.i: TemaPeAcasa6/Ex7.c.i
+.PHONY : TemaPeAcasa6/Ex7.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.7.dir\build.make CMakeFiles/Ex6.7.dir/TemaPeAcasa6/Ex7.c.i
+.PHONY : TemaPeAcasa6/Ex7.c.i
+
+TemaPeAcasa6/Ex7.s: TemaPeAcasa6/Ex7.c.s
+.PHONY : TemaPeAcasa6/Ex7.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.7.dir\build.make CMakeFiles/Ex6.7.dir/TemaPeAcasa6/Ex7.c.s
+.PHONY : TemaPeAcasa6/Ex7.c.s
+
+TemaPeAcasa6/Ex8.obj: TemaPeAcasa6/Ex8.c.obj
+.PHONY : TemaPeAcasa6/Ex8.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.8.dir\build.make CMakeFiles/Ex6.8.dir/TemaPeAcasa6/Ex8.c.obj
+.PHONY : TemaPeAcasa6/Ex8.c.obj
+
+TemaPeAcasa6/Ex8.i: TemaPeAcasa6/Ex8.c.i
+.PHONY : TemaPeAcasa6/Ex8.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.8.dir\build.make CMakeFiles/Ex6.8.dir/TemaPeAcasa6/Ex8.c.i
+.PHONY : TemaPeAcasa6/Ex8.c.i
+
+TemaPeAcasa6/Ex8.s: TemaPeAcasa6/Ex8.c.s
+.PHONY : TemaPeAcasa6/Ex8.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.8.dir\build.make CMakeFiles/Ex6.8.dir/TemaPeAcasa6/Ex8.c.s
+.PHONY : TemaPeAcasa6/Ex8.c.s
+
+TemaPeAcasa6/Ex9.obj: TemaPeAcasa6/Ex9.c.obj
+.PHONY : TemaPeAcasa6/Ex9.obj
+
+# target to build an object file
+TemaPeAcasa6/Ex9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.9.dir\build.make CMakeFiles/Ex6.9.dir/TemaPeAcasa6/Ex9.c.obj
+.PHONY : TemaPeAcasa6/Ex9.c.obj
+
+TemaPeAcasa6/Ex9.i: TemaPeAcasa6/Ex9.c.i
+.PHONY : TemaPeAcasa6/Ex9.i
+
+# target to preprocess a source file
+TemaPeAcasa6/Ex9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.9.dir\build.make CMakeFiles/Ex6.9.dir/TemaPeAcasa6/Ex9.c.i
+.PHONY : TemaPeAcasa6/Ex9.c.i
+
+TemaPeAcasa6/Ex9.s: TemaPeAcasa6/Ex9.c.s
+.PHONY : TemaPeAcasa6/Ex9.s
+
+# target to generate assembly for a file
+TemaPeAcasa6/Ex9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ex6.9.dir\build.make CMakeFiles/Ex6.9.dir/TemaPeAcasa6/Ex9.c.s
+.PHONY : TemaPeAcasa6/Ex9.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -4530,6 +5159,15 @@ help:
 	@echo ... Ex5.8
 	@echo ... Ex5.9
 	@echo ... Ex6
+	@echo ... Ex6.1
+	@echo ... Ex6.2
+	@echo ... Ex6.3
+	@echo ... Ex6.4
+	@echo ... Ex6.5
+	@echo ... Ex6.6
+	@echo ... Ex6.7
+	@echo ... Ex6.8
+	@echo ... Ex6.9
 	@echo ... Ex7
 	@echo ... Ex8
 	@echo ... Ex9
@@ -4543,6 +5181,13 @@ help:
 	@echo ... LP1.8
 	@echo ... LP1.9
 	@echo ... LP2.1
+	@echo ... LP2.1.1
+	@echo ... LP2.1.2
+	@echo ... LP2.1.2.1
+	@echo ... LP2.1.3
+	@echo ... LP2.1.4
+	@echo ... LP2.1.5
+	@echo ... LP2.1.6
 	@echo ... LP2.10
 	@echo ... LP2.11
 	@echo ... LP2.12
@@ -4554,6 +5199,7 @@ help:
 	@echo ... LP2.2
 	@echo ... LP2.2.1
 	@echo ... LP2.2.10
+	@echo ... LP2.2.2.2
 	@echo ... LP2.2.3
 	@echo ... LP2.2.4
 	@echo ... LP2.2.5
@@ -4596,6 +5242,30 @@ help:
 	@echo ... LP1/Ex9.obj
 	@echo ... LP1/Ex9.i
 	@echo ... LP1/Ex9.s
+	@echo ... LP2.1/Ex1.obj
+	@echo ... LP2.1/Ex1.i
+	@echo ... LP2.1/Ex1.s
+	@echo ... LP2.1/Ex2.1.obj
+	@echo ... LP2.1/Ex2.1.i
+	@echo ... LP2.1/Ex2.1.s
+	@echo ... LP2.1/Ex2.2.obj
+	@echo ... LP2.1/Ex2.2.i
+	@echo ... LP2.1/Ex2.2.s
+	@echo ... LP2.1/Ex2.obj
+	@echo ... LP2.1/Ex2.i
+	@echo ... LP2.1/Ex2.s
+	@echo ... LP2.1/Ex3.obj
+	@echo ... LP2.1/Ex3.i
+	@echo ... LP2.1/Ex3.s
+	@echo ... LP2.1/Ex4.obj
+	@echo ... LP2.1/Ex4.i
+	@echo ... LP2.1/Ex4.s
+	@echo ... LP2.1/Ex5.obj
+	@echo ... LP2.1/Ex5.i
+	@echo ... LP2.1/Ex5.s
+	@echo ... LP2.1/Ex6.obj
+	@echo ... LP2.1/Ex6.i
+	@echo ... LP2.1/Ex6.s
 	@echo ... LP2/EX2.7.obj
 	@echo ... LP2/EX2.7.i
 	@echo ... LP2/EX2.7.s
@@ -4917,6 +5587,33 @@ help:
 	@echo ... TemaPeAcasa5/Ex9.obj
 	@echo ... TemaPeAcasa5/Ex9.i
 	@echo ... TemaPeAcasa5/Ex9.s
+	@echo ... TemaPeAcasa6/Ex1.obj
+	@echo ... TemaPeAcasa6/Ex1.i
+	@echo ... TemaPeAcasa6/Ex1.s
+	@echo ... TemaPeAcasa6/Ex2.obj
+	@echo ... TemaPeAcasa6/Ex2.i
+	@echo ... TemaPeAcasa6/Ex2.s
+	@echo ... TemaPeAcasa6/Ex3.obj
+	@echo ... TemaPeAcasa6/Ex3.i
+	@echo ... TemaPeAcasa6/Ex3.s
+	@echo ... TemaPeAcasa6/Ex4.obj
+	@echo ... TemaPeAcasa6/Ex4.i
+	@echo ... TemaPeAcasa6/Ex4.s
+	@echo ... TemaPeAcasa6/Ex5.obj
+	@echo ... TemaPeAcasa6/Ex5.i
+	@echo ... TemaPeAcasa6/Ex5.s
+	@echo ... TemaPeAcasa6/Ex6.obj
+	@echo ... TemaPeAcasa6/Ex6.i
+	@echo ... TemaPeAcasa6/Ex6.s
+	@echo ... TemaPeAcasa6/Ex7.obj
+	@echo ... TemaPeAcasa6/Ex7.i
+	@echo ... TemaPeAcasa6/Ex7.s
+	@echo ... TemaPeAcasa6/Ex8.obj
+	@echo ... TemaPeAcasa6/Ex8.i
+	@echo ... TemaPeAcasa6/Ex8.s
+	@echo ... TemaPeAcasa6/Ex9.obj
+	@echo ... TemaPeAcasa6/Ex9.i
+	@echo ... TemaPeAcasa6/Ex9.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
